@@ -3,10 +3,12 @@
 ## Kindergarten
 
 ### History & Geography
+**Seterra Map Self Quizzes**
+
 [North America](https://www.geoguessr.com/seterra/en/vgp/3015?c=RCSKA)
 
 ### Language
-**Quizlet**
+**Quizlet Self Quizzes**
 
 [Lower-case Letters](https://quizlet.com/775919356/lower-case-letters-flash-cards/?funnelUUID=c0534a5b-e626-4e8e-a8ce-ed7b670f159d)
 
@@ -16,7 +18,7 @@
 ## 4th Grade
 
 ### History & Geography
-**Seterra Maps**
+**Seterra Map Self Quizzes**
 
 [Abeka 4 Maps 1-2 Continents and Oceans](https://www.geoguessr.com/seterra/en/vgp/3963?c=66QB2)
 
@@ -44,7 +46,7 @@
 [Chapter 10](https://quizlet.com/749314632/abeka-4-history-chapter-10-flash-cards/?funnelUUID=c92e0841-2b66-4cd4-a951-cc4dbfbe071b)
 
 ### Health
-**Seterra**
+**Seterra Chart Self Quizzes**
 
 [Abeka 4-6 Health Teaching Chart 3-4 A Tooth's Structure](https://www.geoguessr.com/seterra/en-an/vgp/3859?c=3VAE4)
 
