@@ -11,7 +11,7 @@
 ## 4th Grade
 
 ### History & Geography
-**Maps**
+**Seterra Maps**
 
 [Abeka 4 Map 1-2 Continents and Oceans](https://www.geoguessr.com/seterra/en/vgp/3963?c=66QB2)
 
@@ -25,7 +25,7 @@
 
 [Abeka 4 Map 11-12 Our Nation Grows](https://www.geoguessr.com/seterra/en/vgp/3362?c=954DH)
 
-**Text Review**
+**Quizlet Text Review**
 
 [Chapter 1](https://quizlet.com/722797758/abeka-4-history-chapter-1-flash-cards/?funnelUUID=78fe5ef9-3949-42e9-9ac6-b7e6e9c79bb5)
 
