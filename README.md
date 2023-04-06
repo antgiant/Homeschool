@@ -24,7 +24,7 @@
 [Abeka 4-6 Health Teaching Chart 19-20 Lymphatic System](https://www.geoguessr.com/seterra/en-an/vgp/3801?c=DUHS8)  
 [Abeka 4-6 Health Teaching Chart 21-22 Endocrine System](https://www.geoguessr.com/seterra/en-an/vgp/3801?c=2JFSY)
 
-**Quizlet Health Chart Self Quizzes**
+**Quizlet Health Chart Self Quizzes**  
 [Abeka 4-6 Health Teaching Chart 3-4 A Tooth's Structure](https://quizlet.com/790032522/abeka-4-6-health-teaching-charts-3-4-a-tooths-structure-diagram/?funnelUUID=db600913-df39-497c-99d8-faeb8f56ac88)  
 [Abeka 4-6 Health Teaching Chart 5-6 Skeletal System](https://quizlet.com/790040412/abeka-4-6-health-teaching-charts-5-6-skeletal-system-diagram/?funnelUUID=74d0934a-d93a-4d99-a27e-7b9c1b98ae84)   
 [Abeka 4-6 Health Teaching Chart 7-8 Muscular System](https://quizlet.com/790044677/abeka-4-6-health-teaching-charts-7-8-muscular-system-diagram/?funnelUUID=c8b9a453-9a7b-462f-8615-23683eb38149)   
