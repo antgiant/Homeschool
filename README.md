@@ -19,7 +19,12 @@
 [Abeka 4 Maps 9-10 13 Colonies](https://www.geoguessr.com/seterra/en/vgp/3044?c=CSJLC)  
 [Abeka 4 Maps 11-12 Our Nation Grows](https://www.geoguessr.com/seterra/en/vgp/3362?c=954DH)
 
-**Quizlet Text Review**  
+**Seterra USA Quizzes**  
+[States](https://www.geoguessr.com/seterra/en/vgp/3285?c=WMYLY)  
+[Capitals](https://www.geoguessr.com/seterra/en/vgp/3063?c=LVRC5)  
+[Presidents 1929 to Current](https://www.geoguessr.com/seterra/en/vgp/3794)
+
+**Quizlet Textbook Review**  
 [Chapter 1](https://quizlet.com/722797758/abeka-4-history-chapter-1-flash-cards/?funnelUUID=78fe5ef9-3949-42e9-9ac6-b7e6e9c79bb5), 
 [Chapter 2](https://quizlet.com/722847457/abeka-4-history-chapter-2-flash-cards/?funnelUUID=12cd0ec5-cb57-4ced-a875-0b6604139cbf), 
 [Chapter 3](https://quizlet.com/722849371/abeka-4-history-chapter-3-flash-cards/?funnelUUID=3df5fa87-4457-4ebc-b408-79e2105842e3), 
