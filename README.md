@@ -9,6 +9,7 @@
 [Lower-case Letters](https://quizlet.com/775919356/lower-case-letters-flash-cards/?funnelUUID=c0534a5b-e626-4e8e-a8ce-ed7b670f159d)
 ### Science  
 [Our Planet](https://www.geoguessr.com/seterra/en/vgp/3123?c=FWNU2)
+
 ## 4th Grade
 ### Health
 **Seterra Chart Self Quizzes**  
@@ -35,6 +36,7 @@
 [Abeka 4-6 Health Teaching Chart 17-18 Nervous System](https://quizlet.com/790107324/abeka-4-6-health-teaching-charts-17-18-nervous-system-diagram/?funnelUUID=67fc0196-c340-4505-8ba2-4b03348783af)   
 [Abeka 4-6 Health Teaching Chart 19-20 Lymphatic System](https://quizlet.com/790111559/abeka-4-6-health-teaching-charts-19-20-lymphatic-system-diagram/?funnelUUID=07fe45e3-d06b-4204-9073-aef3d2fa2d69)   
 [Abeka 4-6 Health Teaching Chart 21-22 Endocrine System](https://quizlet.com/790113130/abeka-4-6-health-teaching-charts-21-22-endocrine-system-diagram/?funnelUUID=7046ccd9-7899-46b5-8b5c-ef7145cb6036)
+
 ### History & Geography
 **Seterra Map Self Quizzes**  
 [Abeka 4 Maps 1-2 Continents and Oceans](https://www.geoguessr.com/seterra/en/vgp/3963?c=66QB2)  
@@ -59,7 +61,9 @@
 [Chapter 7](https://quizlet.com/733206764/abeka-4-history-chapter-7-flash-cards/?funnelUUID=d65affa3-0872-4652-afc7-e84fb833eb68), 
 [Chapter 8](https://quizlet.com/744809784/abeka-4-history-chapter-8-flash-cards/?funnelUUID=d1082648-ee03-4374-9d3e-b386a65d312b), 
 [Chapter 9](https://quizlet.com/749311925/abeka-4-history-chapter-9-flash-cards/?funnelUUID=d3e99c1c-d919-4c9e-9185-67a49e1a7867), 
-[Chapter 10](https://quizlet.com/749314632/abeka-4-history-chapter-10-flash-cards/?funnelUUID=c92e0841-2b66-4cd4-a951-cc4dbfbe071b)
+[Chapter 10](https://quizlet.com/749314632/abeka-4-history-chapter-10-flash-cards/?funnelUUID=c92e0841-2b66-4cd4-a951-cc4dbfbe071b),  
+[Chapter 17](https://quizlet.com/790854708/abeka-4-history-chapter-17-the-world-wars-flash-cards/)
+
 ### Language
 **Quizlet Self Quizzes**  
 [Sentence Types](https://quizlet.com/725409094/abeka-language-sentence-types-flash-cards/?funnelUUID=f5d6ebf4-282d-42a8-b070-797344959538)  
