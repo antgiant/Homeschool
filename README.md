@@ -132,7 +132,7 @@
 [& Vocabulary](https://quizlet.com/777923851/abeka-4-spelling-list-25-vocabulary-flash-cards/?funnelUUID=6119898a-ad05-4144-8c84-a6d98701de36)  
 [Llist 26](https://quizlet.com/777923947/abeka-4-spelling-list-26-flash-cards/?funnelUUID=c447ecf1-a9a1-4b46-bffe-69a6a4ddd99d)
 [& Vocabulary](https://quizlet.com/777924065/abeka-4-spelling-list-26-vocabulary-flash-cards/?funnelUUID=4e52acf0-60f4-4d2b-98a5-40e1f278dc5c),
-[Llist 27](https://quizlet.com/777924163/abeka-4-spelling-list-27-vocabulary-review-flash-cards/?funnelUUID=f9c8b4e9-dbf1-4051-a536-6d4a6261ce71),
+[Llist 27 Vocabulary Review](https://quizlet.com/777924163/abeka-4-spelling-list-27-vocabulary-review-flash-cards/?funnelUUID=f9c8b4e9-dbf1-4051-a536-6d4a6261ce71),
 [Llist 28](https://quizlet.com/777924287/abeka-4-spelling-list-28-flash-cards/?funnelUUID=45b6bfe0-116a-4366-b8ff-58d163897a27)
 [& Vocabulary](https://quizlet.com/777924423/abeka-4-spelling-list-28-vocabulary-flash-cards/?funnelUUID=c77137bc-3411-4995-8957-26c0d2ab5fcc),
 [Llist 29](https://quizlet.com/777924557/abeka-4-spelling-list-29-flash-cards/?funnelUUID=3c19557f-0591-4754-b43e-3c840f425567)
@@ -145,7 +145,7 @@
 [& Vocabulary](https://quizlet.com/777925383/abeka-4-spelling-list-32-vocabulary-flash-cards/?funnelUUID=328dde5b-c2da-4a1c-ba48-f32eef8fd9b1)
 [Llist 33](https://quizlet.com/777925488/abeka-4-spelling-list-33-flash-cards/?funnelUUID=4a988f87-891b-4c4b-9f6d-2b1f1116fe02)
 [& Vocabulary](https://quizlet.com/777925590/abeka-4-spelling-list-33-vocabulary-flash-cards/?funnelUUID=c860dd89-e2c6-48ea-b752-dd3db1ef0f99),
-[Llist 34](https://quizlet.com/777925704/abeka-4-spelling-list-34-vocabulary-review-flash-cards/?funnelUUID=4bca13d1-e7a7-4983-8c22-a32d4311ace8)
+[Llist 34 Vocabulary Review](https://quizlet.com/777925704/abeka-4-spelling-list-34-vocabulary-review-flash-cards/?funnelUUID=4bca13d1-e7a7-4983-8c22-a32d4311ace8)
 
 ## 6th Grade
 ### Health
