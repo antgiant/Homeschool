@@ -102,7 +102,7 @@
 [Llist 2](https://quizlet.com/717752408/abeka-4-spelling-list-2-flash-cards/?funnelUUID=7f611cc3-34c7-4950-b2b8-032d2bee1d8f),
 [Llist 3](https://quizlet.com/720030235/abeka-4-spelling-list-3-flash-cards/?funnelUUID=3b3ff569-97a5-47f9-8fc8-31d3e56a52e3),
 [Llist 4](https://quizlet.com/721802558/abeka-4-spelling-list-4-flash-cards/?funnelUUID=f3ec0470-e365-4165-9762-09b58976e8b0),
-[Llist 5](https://quizlet.com/724361922/abeka-4-spelling-list-5-flash-cards/?funnelUUID=7795ab6a-b6d4-4cb5-b3f8-07c6a1c2921d),
+[Llist 5](https://quizlet.com/724361922/abeka-4-spelling-list-5-flash-cards/?funnelUUID=7795ab6a-b6d4-4cb5-b3f8-07c6a1c2921d)  
 [Llist 6](https://quizlet.com/727119973/abeka-4-spelling-list-6-flash-cards/?funnelUUID=8ef25d6b-7cd5-4530-aca0-764962beba82),
 [Llist 7](https://quizlet.com/731244312/abeka-4-spelling-list-7-flash-cards/?funnelUUID=5bfdd803-badf-4576-afb9-0b186e19c3fc),
 [Llist 8](https://quizlet.com/736432526/abeka-4-spelling-list-8-flash-cards/?funnelUUID=139b312c-3f6f-4588-8946-be1eec6a41df),
@@ -112,7 +112,7 @@
 [Llist 12](https://quizlet.com/747543950/abeka-4-spelling-list-12-flash-cards/?funnelUUID=c19599fe-4f09-4482-b998-5745cbc85dd7),
 [Llist 13](https://quizlet.com/750910766/abeka-4-spelling-list-13-flash-cards/?funnelUUID=5ac8b2cc-2d22-441e-82e7-1a617c1aabc2),
 [Llist 14](https://quizlet.com/752928924/abeka-4-spelling-list-14-flash-cards/?funnelUUID=9465f794-7b38-43dd-9933-b003215e9323),
-[Llist 15](https://quizlet.com/769163018/abeka-4-spelling-list-15-practice-test-flash-cards/?funnelUUID=0a6e3416-7e85-4790-8716-561e5b95f413),
+[Llist 15](https://quizlet.com/769163018/abeka-4-spelling-list-15-practice-test-flash-cards/?funnelUUID=0a6e3416-7e85-4790-8716-561e5b95f413)  
 [Llist 16](https://quizlet.com/771363252/abeka-4-spelling-list-16-practice-test-flash-cards/?funnelUUID=1e4125c0-6e93-4d1c-b3c5-696edeb89f8c),
 [Llist 17](https://quizlet.com/774502828/abeka-4-spelling-list-17-flash-cards/?funnelUUID=1f5b5ec8-b69e-4957-8754-5148db12d884),
 [Llist 18](https://quizlet.com/776485279/abeka-4-spelling-list-18-vocabulary-flash-cards/?funnelUUID=e56c79ac-c201-4e9a-b41a-39140b7f31b3),
@@ -129,7 +129,7 @@
 [Llist 24](https://quizlet.com/777923480/abeka-4-spelling-list-24-flash-cards/?funnelUUID=c96f7f49-01c8-40df-8826-d144b47f2a4f),
 [Llist 24 Vocabulary](https://quizlet.com/777923615/abeka-4-spelling-list-24-vocabulary-flash-cards/?funnelUUID=aceb0a81-136d-4beb-a4a1-4b7533210812),
 [Llist 25](https://quizlet.com/777923745/abeka-4-spelling-list-25-flash-cards/?funnelUUID=7a95fb67-81da-47a0-96a6-73ab78483cb1),
-[Llist 25 Vocabulary](https://quizlet.com/777923851/abeka-4-spelling-list-25-vocabulary-flash-cards/?funnelUUID=6119898a-ad05-4144-8c84-a6d98701de36),
+[Llist 25 Vocabulary](https://quizlet.com/777923851/abeka-4-spelling-list-25-vocabulary-flash-cards/?funnelUUID=6119898a-ad05-4144-8c84-a6d98701de36)  
 [Llist 26](https://quizlet.com/777923947/abeka-4-spelling-list-26-flash-cards/?funnelUUID=c447ecf1-a9a1-4b46-bffe-69a6a4ddd99d),
 [Llist 26 Vocabulary](https://quizlet.com/777924065/abeka-4-spelling-list-26-vocabulary-flash-cards/?funnelUUID=4e52acf0-60f4-4d2b-98a5-40e1f278dc5c),
 [Llist 27](https://quizlet.com/777924163/abeka-4-spelling-list-27-vocabulary-review-flash-cards/?funnelUUID=f9c8b4e9-dbf1-4051-a536-6d4a6261ce71),
