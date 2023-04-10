@@ -17,13 +17,7 @@
 [Abeka 4-6 Health Teaching Chart 5-6 Skeletal System](https://www.geoguessr.com/seterra/en-an/vgp/3800?c=EUAHL)  
 [Abeka 4-6 Health Teaching Chart 7-8 Muscular System](https://www.geoguessr.com/seterra/en-an/vgp/3811?c=Q5787)  
 [Abeka 4-6 Health Teaching Chart 9-10 Respiratory System](https://www.geoguessr.com/seterra/en-an/vgp/3831?c=LKHFR)  
-[Abeka 4-6 Health Teaching Chart 11-12 Skin](https://www.geoguessr.com/seterra/en-an/vgp/3804?c=9Y348)  
-[Abeka 4-6 Health Teaching Chart 13a-14a Heart](https://www.geoguessr.com/seterra/en-an/vgp/3805?c=VDY8E)  
-[Abeka 4-6 Health Teaching Chart 13b-14b Circulatory System](https://www.geoguessr.com/seterra/en-an/vgp/3801?c=ZTK58)  
-[Abeka 4-6 Health Teaching Chart 15-16 Digestive and Excretory System](https://www.geoguessr.com/seterra/en-an/vgp/3831?c=LKHFR)  
-[Abeka 4-6 Health Teaching Chart 17a-18a Nervous System Brain](https://www.geoguessr.com/seterra/en-an/vgp/3806?c=A4E4A)  
-[Abeka 4-6 Health Teaching Chart 19-20 Lymphatic System](https://www.geoguessr.com/seterra/en-an/vgp/3801?c=DUHS8)  
-[Abeka 4-6 Health Teaching Chart 21-22 Endocrine System](https://www.geoguessr.com/seterra/en-an/vgp/3801?c=2JFSY)
+[Abeka 4-6 Health Teaching Chart 11-12 Skin](https://www.geoguessr.com/seterra/en-an/vgp/3804?c=9Y348)
 
 **Quizlet Health Charts**  
 [Abeka 4-6 Health Teaching Chart 3-4 A Tooth's Structure](https://quizlet.com/790032522/abeka-4-6-health-teaching-charts-3-4-a-tooths-structure-diagram/?funnelUUID=db600913-df39-497c-99d8-faeb8f56ac88)  
