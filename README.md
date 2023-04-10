@@ -24,12 +24,7 @@
 [Abeka 4-6 Health Teaching Chart 5-6 Skeletal System](https://quizlet.com/790040412/abeka-4-6-health-teaching-charts-5-6-skeletal-system-diagram/?funnelUUID=74d0934a-d93a-4d99-a27e-7b9c1b98ae84)   
 [Abeka 4-6 Health Teaching Chart 7-8 Muscular System](https://quizlet.com/790044677/abeka-4-6-health-teaching-charts-7-8-muscular-system-diagram/?funnelUUID=c8b9a453-9a7b-462f-8615-23683eb38149)   
 [Abeka 4-6 Health Teaching Chart 9-10 Respiratory System](https://quizlet.com/790053842/abeka-4-6-health-teaching-charts-9-10-respiratory-system-diagram/?funnelUUID=d077285c-be57-4b24-8c00-fde0dc352760)  
-[Abeka 4-6 Health Teaching Chart 11-12 Skin](https://quizlet.com/790061783/abeka-4-6-health-teaching-charts-11-12-skin-diagram/?funnelUUID=65c61be2-8b76-4a00-9558-ee708e2b1196)  
-[Abeka 4-6 Health Teaching Chart 13-14 Circulatory System](https://quizlet.com/790086606/abeka-4-6-health-teaching-charts-13-14-circulatory-system-diagram/?funnelUUID=9deeb9e4-a125-41bc-b9bb-a8f2ed469391)    
-[Abeka 4-6 Health Teaching Chart 15-16 Digestive and Excretory System](https://quizlet.com/790098473/abeka-4-6-health-teaching-charts-11-12-digestive-system-diagram/?funnelUUID=54816406-76d4-45af-b767-f6cbd59c4277)   
-[Abeka 4-6 Health Teaching Chart 17-18 Nervous System](https://quizlet.com/790107324/abeka-4-6-health-teaching-charts-17-18-nervous-system-diagram/?funnelUUID=67fc0196-c340-4505-8ba2-4b03348783af)   
-[Abeka 4-6 Health Teaching Chart 19-20 Lymphatic System](https://quizlet.com/790111559/abeka-4-6-health-teaching-charts-19-20-lymphatic-system-diagram/?funnelUUID=07fe45e3-d06b-4204-9073-aef3d2fa2d69)   
-[Abeka 4-6 Health Teaching Chart 21-22 Endocrine System](https://quizlet.com/790113130/abeka-4-6-health-teaching-charts-21-22-endocrine-system-diagram/?funnelUUID=7046ccd9-7899-46b5-8b5c-ef7145cb6036)
+[Abeka 4-6 Health Teaching Chart 11-12 Skin](https://quizlet.com/790061783/abeka-4-6-health-teaching-charts-11-12-skin-diagram/?funnelUUID=65c61be2-8b76-4a00-9558-ee708e2b1196)
 
 ### History & Geography
 **Seterra Maps**  
