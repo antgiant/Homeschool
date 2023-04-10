@@ -38,10 +38,6 @@
 [Abeka 4 Maps 13-14 Landforms (Complete, Quizlet)](https://quizlet.com/791606764/abeka-4-map-13-14-landforms-diagram/?new)  
 [Abeka 4 Maps 15-16 States](https://www.geoguessr.com/seterra/en/vgp/3285?c=WMYLY)  
 [Abeka 4 Maps 15-16 Capitals](https://www.geoguessr.com/seterra/en/vgp/3063?c=LVRC5)
-
-**Seterra USA Quizzes**  
-[States](https://www.geoguessr.com/seterra/en/vgp/3285?c=WMYLY)  
-[Capitals](https://www.geoguessr.com/seterra/en/vgp/3063?c=LVRC5)  
 [Presidents 1929 to Current](https://www.geoguessr.com/seterra/en/vgp/3794)
 
 **Quizlet Textbook Review**  
