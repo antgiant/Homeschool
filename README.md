@@ -45,9 +45,9 @@
 [Abeka 4 Maps 7-8 Early Settlements](https://www.geoguessr.com/seterra/en/vgp/3452?c=2YXEH)  
 [Abeka 4 Maps 9-10 13 Colonies](https://www.geoguessr.com/seterra/en/vgp/3044?c=CSJLC)  
 [Abeka 4 Maps 11-12 Our Nation Grows](https://www.geoguessr.com/seterra/en/vgp/3362?c=954DH)  
-[Abeka 4 Maps 13-14 Landforms (incomplete, Seterra)](https://www.geoguessr.com/seterra/en/vgp/3384?c=YJ69Q)
+[Abeka 4 Maps 13-14 Landforms (incomplete, Seterra)](https://www.geoguessr.com/seterra/en/vgp/3384?c=YJ69Q)  
 [Abeka 4 Maps 13-14 Landforms (Complete, Quizlet)](https://quizlet.com/791606764/abeka-4-map-13-14-landforms-diagram/?new)  
-[Abeka 4 Maps 15-16 States](https://www.geoguessr.com/seterra/en/vgp/3285?c=WMYLY) 
+[Abeka 4 Maps 15-16 States](https://www.geoguessr.com/seterra/en/vgp/3285?c=WMYLY)  
 [Abeka 4 Maps 15-16 Capitals](https://www.geoguessr.com/seterra/en/vgp/3063?c=LVRC5)
 
 **Seterra USA Quizzes**  
