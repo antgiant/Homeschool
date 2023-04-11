@@ -233,15 +233,22 @@
 
 [List 27 Spelling Challenge](https://quizlet.com/777917016/abeka-6-spelling-list-27-words-to-conquer-flash-cards/?funnelUUID=16d52181-94b8-47be-b9ec-9d944d66455a)
 
-[List 28 Prefixes per extra extro](),
-[Roots voc uni](),
-[Suffixes age ile]()  
-[List 29 Prefixes ex](),
-[Roots vac vert vers](),
-[Suffixes less]()  
-[List 30 Prefixes en pre]()
-[Roots viv vita](),
-[Suffixes ly]()  
-[List 31 Review](),
-[Vocabulary]()
+[List 28 Prefixes ob](https://quizlet.com/777919609/abeka-6-spelling-list-28-prefixes-ob-flash-cards/?funnelUUID=a9a0a393-ebeb-45de-8794-530e2a3e7f08),
+[Roots tella the theo therm](https://quizlet.com/777919479/abeka-6-spelling-list-28-roots-telethetheotherm-flash-cards/?funnelUUID=c025b388-2c36-4793-acaa-8777b730ac70),
+[Suffixes ery en](https://quizlet.com/777919727/abeka-6-spelling-list-28-suffixes-eryen-flash-cards/?funnelUUID=6b2b24c2-fdc6-4be5-bb63-ddb95766cdbd)  
+[List 29 Prefixes trans epi](https://quizlet.com/777919848/abeka-6-spelling-list-29-prefixes-transepi-flash-cards/?funnelUUID=bb389d2d-f291-4344-9030-1e912724cc3f),
+[Suffixes ous](https://quizlet.com/777919964/abeka-6-spelling-list-29-suffixes-ous-flash-cards/?funnelUUID=d4778f93-e050-4fe4-95b1-124cd68c75c5),
+[Antonyms](https://quizlet.com/777920094/abeka-6-spelling-list-29-antonyms-flash-cards/?funnelUUID=66534f40-7c6e-4c75-8cc2-3bf631170adc)  
+[List 30 Prefixes pro](https://quizlet.com/777920248/abeka-6-spelling-list-30-prefixes-pro-flash-cards/?funnelUUID=89831f33-fb47-406b-bb9f-1ce7b790619f),
+[Suffixes ness ist](https://quizlet.com/777920372/abeka-6-spelling-list-30-suffixes-nessist-flash-cards/?funnelUUID=640d4dd0-e501-4caf-a46d-4c63cf2e63ae),
+[Synonyms](https://quizlet.com/777920510/abeka-6-spelling-list-30-synonyms-flash-cards/?funnelUUID=7f9785cc-57a0-4e7a-a4d8-48f5b398f27e)  
+[List 31 Review](https://quizlet.com/777920694/abeka-6-spelling-list-31-spelling-flash-cards/?funnelUUID=614d97d3-46b1-4393-97c1-98027dc6f791),
+[Vocabulary](https://quizlet.com/777920840/abeka-6-spelling-list-31-vocabulary-flash-cards/?funnelUUID=a466b1f7-8799-4f7f-bbc5-239baf43fdbf)
 
+[List 32 Prefixes pro](https://quizlet.com/777920958/abeka-6-spelling-list-32-prefixes-post-flash-cards/?funnelUUID=a1410f0a-2992-4ce8-bf0a-c5abcc40c373),
+[Suffixes ant ism](https://quizlet.com/777921069/abeka-6-spelling-list-32-suffixes-antism-flash-cards/?funnelUUID=193ea0b8-a4e8-4887-b694-1cab0f0bba59),
+[Homonyms](https://quizlet.com/777921180/abeka-6-spelling-list-32-homonyms-flash-cards/?funnelUUID=639ddaae-2f67-434a-8260-e24fd1b99ba8)  
+[List 33 Prefixes in cata](https://quizlet.com/777921312/abeka-6-spelling-list-33-prefixes-incata-flash-cards/?funnelUUID=2620d901-cbe7-4727-b0d9-e605217b3078),
+[Homonyms](https://quizlet.com/777921461/abeka-6-spelling-list-33-homonyms-flash-cards/?funnelUUID=a4171518-ec4c-4171-9593-9be4a251668d)  
+[List 34 Review](https://quizlet.com/777921585/abeka-6-spelling-list-34-spelling-flash-cards/?funnelUUID=a938e701-c9e8-4f09-9271-7173a0362b8b),
+[Vocabulary](https://quizlet.com/777921705/abeka-6-spelling-list-34-vocabulary-flash-cards/?funnelUUID=b4635a1c-7ce2-49e5-9586-504028a7a5f5)
