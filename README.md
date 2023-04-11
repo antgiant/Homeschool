@@ -210,7 +210,7 @@
 [List 19 Prefixes per extra extro](https://quizlet.com/776057688/abeka-6-spelling-list-19-prefixes-flash-cards/?funnelUUID=3d7ba0c5-c02a-4eea-89ca-aabf4d20d4cd),
 [Roots voc uni](https://quizlet.com/744822747/abeka-6-spelling-list-19-roots-flash-cards/?funnelUUID=ba84dc51-4d27-4b2d-8161-24e96d75be1d),
 [Suffixes age ile](https://quizlet.com/776058553/abeka-6-spelling-list-19-suffixes-flash-cards/?funnelUUID=5d751ce1-1182-4b03-9c4c-57ed2b48ced9)  
-[List 20 Prefixes ex]https://quizlet.com/777913970/abeka-6-spelling-list-20-prefixes-ex-flash-cards/?funnelUUID=a920c026-6544-4e3b-b392-b7a3444dedc4(),
+[List 20 Prefixes ex](https://quizlet.com/777913970/abeka-6-spelling-list-20-prefixes-ex-flash-cards/?funnelUUID=a920c026-6544-4e3b-b392-b7a3444dedc4),
 [Roots vac vert vers](https://quizlet.com/777913791/abeka-6-spelling-list-20-roots-vac-vert-vers-flash-cards/?funnelUUID=29b70b2b-6db8-46de-9453-a73e10c4fc50),
 [Suffixes less](https://quizlet.com/777914164/abeka-6-spelling-list-20-suffixes-less-flash-cards/?funnelUUID=13ac0ac4-bbaf-4da9-a024-9aef24c9d1e1)  
 [List 21 Prefixes en pre](https://quizlet.com/777914813/abeka-6-spelling-list-21-prefixes-enpre-flash-cards/?funnelUUID=53236606-17a9-4849-b59a-d6b497b7dde5)
