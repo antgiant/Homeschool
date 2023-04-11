@@ -12,7 +12,7 @@
 
 ## 4th Grade
 ### Health
-**Seterra Charts**  
+**Seterra Health Charts**  
 [Abeka 4-6 Health Teaching Chart 3-4 A Tooth's Structure](https://www.geoguessr.com/seterra/en-an/vgp/3859?c=3VAE4)  
 [Abeka 4-6 Health Teaching Chart 5-6 Skeletal System](https://www.geoguessr.com/seterra/en-an/vgp/3800?c=EUAHL)  
 [Abeka 4-6 Health Teaching Chart 7-8 Muscular System](https://www.geoguessr.com/seterra/en-an/vgp/3811?c=Q5787)  
@@ -64,7 +64,7 @@
 [Quotation Marks or Underline](https://quizlet.com/725404154/language-when-to-use-quotation-marks-or-underlining-flash-cards/?funnelUUID=30771039-bff6-49f0-9289-0eb34f924329)
 
 ### Science
-**Quizlet Textbook Review**  
+**Quizlet Science Textbook Review**  
 [Chapter 1](https://quizlet.com/721808214/abeka-4-science-chapter-1-flash-cards/?funnelUUID=7601e7c5-f678-4de0-91b5-08d82edc21d1)  
 [2.2-2.1](https://quizlet.com/722198542/abeka-4-science-chapter-2-21-22-flash-cards/?funnelUUID=7b8ead8f-97d9-49c8-b374-b09390af29f0),
 [2.3-2.4](https://quizlet.com/724762687/abeka-4-science-chapter-2-23-24-flash-cards/?funnelUUID=0ed1781e-b37a-44b3-859d-b61c447e7033),
@@ -139,7 +139,7 @@
 
 ## 6th Grade
 ### Health
-**Seterra Charts**  
+**Seterra Health Charts**  
 [Abeka 4-6 Health Teaching Chart 3-4 A Tooth's Structure](https://www.geoguessr.com/seterra/en-an/vgp/3859?c=3VAE4)  
 [Abeka 4-6 Health Teaching Chart 5-6 Skeletal System](https://www.geoguessr.com/seterra/en-an/vgp/3800?c=EUAHL)  
 [Abeka 4-6 Health Teaching Chart 7-8 Muscular System](https://www.geoguessr.com/seterra/en-an/vgp/3811?c=Q5787)  
