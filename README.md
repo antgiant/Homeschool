@@ -210,21 +210,21 @@
 [List 19 Prefixes per extra extro](https://quizlet.com/776057688/abeka-6-spelling-list-19-prefixes-flash-cards/?funnelUUID=3d7ba0c5-c02a-4eea-89ca-aabf4d20d4cd),
 [Roots voc uni](https://quizlet.com/744822747/abeka-6-spelling-list-19-roots-flash-cards/?funnelUUID=ba84dc51-4d27-4b2d-8161-24e96d75be1d),
 [Suffixes age ile](https://quizlet.com/776058553/abeka-6-spelling-list-19-suffixes-flash-cards/?funnelUUID=5d751ce1-1182-4b03-9c4c-57ed2b48ced9)  
-[List 20 Prefixes mon mono](),
-[Roots fer](),
-[Suffixes able ible]()  
-[List 21 Prefixes mon mono](),
-[Roots fer](),
-[Suffixes able ible]()  
-[List 22 Prefixes mon mono](),
-[Roots fer](),
-[Suffixes able ible]()  
-[List 23 Prefixes mon mono](),
-[Roots fer](),
-[Suffixes able ible]()  
-[List 24 Prefixes mon mono](),
-[Roots fer](),
-[Suffixes able ible]()  
-[List 25 Prefixes mon mono](),
-[Roots fer](),
-[Suffixes able ible]()  
+[List 20 Prefixes ex]https://quizlet.com/777913970/abeka-6-spelling-list-20-prefixes-ex-flash-cards/?funnelUUID=a920c026-6544-4e3b-b392-b7a3444dedc4(),
+[Roots vac vert vers](https://quizlet.com/777913791/abeka-6-spelling-list-20-roots-vac-vert-vers-flash-cards/?funnelUUID=29b70b2b-6db8-46de-9453-a73e10c4fc50),
+[Suffixes less](https://quizlet.com/777914164/abeka-6-spelling-list-20-suffixes-less-flash-cards/?funnelUUID=13ac0ac4-bbaf-4da9-a024-9aef24c9d1e1)  
+[List 21 Prefixes en pre](https://quizlet.com/777914813/abeka-6-spelling-list-21-prefixes-enpre-flash-cards/?funnelUUID=53236606-17a9-4849-b59a-d6b497b7dde5)
+[Roots viv vita](https://quizlet.com/777914664/abeka-6-spelling-list-21-roots-vivvita-flash-cards/?funnelUUID=0dfb2bd1-1c51-4f57-a490-8e4707684da3),
+[Suffixes ly](https://quizlet.com/777914984/abeka-6-spelling-list-21-suffixes-ly-flash-cards/?funnelUUID=3165a25b-cf48-4a97-a003-78b2af5621de)  
+[List 22 Review](https://quizlet.com/777915190/abeka-6-spelling-list-22-spelling-flash-cards/?funnelUUID=d9e9d2af-83ee-48cd-b1ca-bba15f4033f6),
+[Vocabulary](https://quizlet.com/777915330/abeka-6-spelling-list-22-vocabulary-flash-cards/?funnelUUID=c963c026-07ba-4494-8460-2b2bb3105502)
+
+[List 23 Prefixes peri hypo](https://quizlet.com/777915652/abeka-6-spelling-list-23-prefixes-perihypo-flash-cards/?funnelUUID=5767928e-08bf-44cf-82db-f2580c5e2099),
+[Roots ven vent](https://quizlet.com/777915499/abeka-6-spelling-list-23-roots-venvent-flash-cards/?funnelUUID=c41440d3-fb76-4a9f-990a-5bdc3f2de2ef),
+[Suffixes ment](https://quizlet.com/777915763/abeka-6-spelling-list-23-suffixes-ment-flash-cards/?funnelUUID=87971bbe-c6f9-4103-a768-7875b9d31add)  
+[List 24 Prefixes ante sur](https://quizlet.com/777916063/abeka-6-spelling-list-24-prefixes-antesur-flash-cards/?funnelUUID=5d314853-4b1a-4883-8c15-71fed418a501),
+[Roots ali alter](https://quizlet.com/777915903/abeka-6-spelling-list-24-rootsalialter-flash-cards/?funnelUUID=9178d511-f9c2-4750-a480-c6eb43b6934b),
+[Suffixes ize ent](https://quizlet.com/777916244/abeka-6-spelling-list-24-suffixes-izeent-flash-cards/?funnelUUID=1034f453-4609-42c2-ae74-06f080123556)  
+[List 25 Prefixes anti ant un](https://quizlet.com/777916548/abeka-6-spelling-list-25-prefixes-antiantun-flash-cards/?funnelUUID=8f840b42-9e7b-4f58-8dee-1ef463d093c0),
+[Roots log logy omni](https://quizlet.com/777916390/abeka-6-spelling-list-25-roots-loglogyomni-flash-cards/?funnelUUID=5f1f7311-dc0a-43a4-beaa-b6949f327951),
+[Suffixes er](https://quizlet.com/777916688/abeka-6-spelling-list-25-suffixeser-flash-cards/?funnelUUID=344b23ba-ff32-44d5-9170-c67859d99c59)  
