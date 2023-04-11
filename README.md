@@ -228,3 +228,20 @@
 [List 25 Prefixes anti ant un](https://quizlet.com/777916548/abeka-6-spelling-list-25-prefixes-antiantun-flash-cards/?funnelUUID=8f840b42-9e7b-4f58-8dee-1ef463d093c0),
 [Roots log logy omni](https://quizlet.com/777916390/abeka-6-spelling-list-25-roots-loglogyomni-flash-cards/?funnelUUID=5f1f7311-dc0a-43a4-beaa-b6949f327951),
 [Suffixes er](https://quizlet.com/777916688/abeka-6-spelling-list-25-suffixeser-flash-cards/?funnelUUID=344b23ba-ff32-44d5-9170-c67859d99c59)  
+[List 26 Review](https://quizlet.com/777916830/abeka-6-spelling-list-26-spelling-flash-cards/?funnelUUID=00a32436-c409-4f3d-acf0-15d5ccc7f249),
+[Vocabulary](https://quizlet.com/777916916/abeka-6-spelling-list-26-vocabulary-flash-cards/?funnelUUID=b30b9563-dab2-4223-88fe-ce9d3ff87064)
+
+[List 27 Spelling Challenge](https://quizlet.com/777917016/abeka-6-spelling-list-27-words-to-conquer-flash-cards/?funnelUUID=16d52181-94b8-47be-b9ec-9d944d66455a)
+
+[List 28 Prefixes per extra extro](),
+[Roots voc uni](),
+[Suffixes age ile]()  
+[List 29 Prefixes ex](),
+[Roots vac vert vers](),
+[Suffixes less]()  
+[List 30 Prefixes en pre]()
+[Roots viv vita](),
+[Suffixes ly]()  
+[List 31 Review](),
+[Vocabulary]()
+
