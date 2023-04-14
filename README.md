@@ -168,6 +168,8 @@
 [Abeka 6 Maps 19-20 Mexico and Central America](https://www.geoguessr.com/seterra/en/vgp/3079?c=A4795)  
 [Abeka 6 Maps 21-22 West Indies](https://www.geoguessr.com/seterra/en/vgp/3129?c=QDSDY)  
 [Abeka 6 Maps 23-24 South America](https://www.geoguessr.com/seterra/en/vgp/3017?c=KGNXH)
+[Abeka 6 Maps 25-26 Landforms & Bodies of Water A](https://quizlet.com/792800307/abeka-6-maps-25-26-landforms-bodies-of-water-a-diagram/?funnelUUID=e8afeb22-0008-44af-812c-9f7d2f60d85d)  
+[Abeka 6 Maps 27-28 Landforms & Bodies of Water B](https://quizlet.com/792794740/abeka-6-maps-27-28-landforms-bodies-of-water-b-diagram/?funnelUUID=972ebd34-da92-4e48-a7b7-bc260fbeacc3)
 
 ### Spelling
 [List 2](https://quizlet.com/718596996/abeka-6-spelling-list-2-flash-cards/?funnelUUID=9d5bbf31-b640-4fab-bfb4-f4d8d3ef3546)  
