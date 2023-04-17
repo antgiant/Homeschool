@@ -3,12 +3,17 @@
 ## Kindergarten
 ### History & Geography
 **Seterra Map Self Quizzes**  
+[Compass Rose N S E W](https://quizlet.com/793713073/k-compass-rose-n-s-e-w-diagram/?new)  
+[North America Quizlet](https://quizlet.com/793723458/kindergarten-north-america-canada-usa-mexico-pacific-atlantic-diagram/?new)  
 [North America](https://www.geoguessr.com/seterra/en/vgp/3015?c=RCSKA)
 ### Language
 **Quizlet Self Quizzes**  
 [Lower-case Letters](https://quizlet.com/775919356/lower-case-letters-flash-cards/?funnelUUID=c0534a5b-e626-4e8e-a8ce-ed7b670f159d)
 ### Science  
 [Our Planet](https://www.geoguessr.com/seterra/en/vgp/3123?c=FWNU2)
+
+### Health
+[Left Right and Body](https://quizlet.com/793728065/kindergarten-left-and-right-diagram/?new)
 
 ## 4th Grade
 ### Health
