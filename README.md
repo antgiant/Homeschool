@@ -7,6 +7,7 @@
 [North America Quizlet](https://quizlet.com/793723458/kindergarten-north-america-canada-usa-mexico-pacific-atlantic-diagram/?new)  
 [North America Seterra](https://www.geoguessr.com/seterra/en/vgp/3015?c=RCSKA)
 ### Language
+[Alphabet Song](https://youtu.be/YxmNhs7RG9w)  
 [Lower-case Letters](https://quizlet.com/775919356/lower-case-letters-flash-cards/?funnelUUID=c0534a5b-e626-4e8e-a8ce-ed7b670f159d)
 ### Science  
 [Find Our Planet](https://www.geoguessr.com/seterra/en/vgp/3123?c=FWNU2)
