@@ -55,7 +55,14 @@
 [Chapter 8](https://quizlet.com/744809784/abeka-4-history-chapter-8-flash-cards/?funnelUUID=d1082648-ee03-4374-9d3e-b386a65d312b), 
 [Chapter 9](https://quizlet.com/749311925/abeka-4-history-chapter-9-flash-cards/?funnelUUID=d3e99c1c-d919-4c9e-9185-67a49e1a7867), 
 [Chapter 10](https://quizlet.com/749314632/abeka-4-history-chapter-10-flash-cards/?funnelUUID=c92e0841-2b66-4cd4-a951-cc4dbfbe071b),  
-[Chapter 17](https://quizlet.com/790854708/abeka-4-history-chapter-17-the-world-wars-flash-cards/)
+[Chapter 11](https://quizlet.com/749332066/abeka-4-history-chapter-11-flash-cards/?funnelUUID=23c72986-729b-42ef-97d6-54d1eaff87f9),  
+[Chapter 12](https://quizlet.com/801073779/abeka-4-history-chapter-12-flash-cards/?funnelUUID=1204b9e9-4123-4d64-8cc7-5a343bd8df79),  
+[Chapter 13](https://quizlet.com/801315615/abeka-4-history-chapter-13-flash-cards/?funnelUUID=85dc5a89-cd88-4629-b7b7-1b2804918b67),  
+[Chapter 14](https://quizlet.com/801561719/abeka-4-history-chapter-14-flash-cards/?funnelUUID=4e50ec83-3f17-496e-86b6-b3aafb559d47),  
+[Chapter 15](https://quizlet.com/801644134/abeka-4-history-chapter-15-flash-cards/?funnelUUID=a688f35f-3da4-4c5d-b107-b457306a3e91),  
+[Chapter 16](https://quizlet.com/801104905/abeka-4-history-chapter-16-flash-cards/?funnelUUID=907b925a-5799-4c12-9df9-3346c68d3176),  
+[Chapter 17](https://quizlet.com/790854708/abeka-4-history-chapter-17-flash-cards/?funnelUUID=492cc593-61d9-416a-ae62-c9a61b9aae14),  
+[Chapter 18](https://quizlet.com/801123130/abeka-4-history-chapter-18-flash-cards/?funnelUUID=b13dbc40-18db-4a7c-8d2a-90cbd6b2ca4f)
 
 ### Language
 [Sentence Types](https://quizlet.com/725409094/abeka-language-sentence-types-flash-cards/?funnelUUID=f5d6ebf4-282d-42a8-b070-797344959538)  
