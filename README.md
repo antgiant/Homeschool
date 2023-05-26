@@ -182,7 +182,10 @@
 
 **Quizlet Maps**  
 [Abeka 6 Maps 1-2 World Physical](https://quizlet.com/806038556/abeka-6-history-maps-1-2-world-physical-diagram/?funnelUUID=f469f007-61cf-4c55-9c4e-abbb3a42a3d5)  
-[Abeka 6 Maps 3-4 Western Hemisphere](https://quizlet.com/806015200/abeka-6-history-maps-3-4-western-hemisphere-diagram/?funnelUUID=ace9740c-8d76-4317-beb0-a8759911022d)  
+[Abeka 6 Maps 3-4 Western Hemisphere Physical](https://quizlet.com/806015200/abeka-6-history-maps-3-4-western-hemisphere-diagram/?funnelUUID=ace9740c-8d76-4317-beb0-a8759911022d)  
+[Abeka 6 Maps 5-6 Western Hemisphere Political](https://quizlet.com/806043503/abeka-6-history-maps-5-6-western-hemisphere-countries-diagram/?funnelUUID=5e09095d-9b3b-4970-91d5-8487c81ba56a)  
+[Abeka 6 Maps 7-8 Canada Political](https://quizlet.com/806048242/abeka-6-history-maps-7-8-canada-diagram/?funnelUUID=1122ba1c-3264-4204-b0a8-e3a1ab865272)  
+[Abeka 6 Maps 9-10 US Capitals & States](https://quizlet.com/806048242/abeka-6-history-maps-7-8-canada-diagram/?funnelUUID=1122ba1c-3264-4204-b0a8-e3a1ab865272)  
 [Abeka 6 Maps 19-20 Mexico & Central America](https://quizlet.com/793520655/abeka-6-maps-19-20-mexico-and-central-america-diagram/)  
 [Abeka 6 Maps 21-22 West Indies](https://quizlet.com/792819197/abeka-6-maps-21-22-west-indies-diagram/?new)  
 [Abeka 6 Maps 23-24 South America](https://quizlet.com/792806967/abeka-6-maps-23-24-south-america-diagram/?new)  
