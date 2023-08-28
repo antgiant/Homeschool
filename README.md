@@ -167,10 +167,11 @@
 ### History & Geography
 **Seterra Maps**  
 
-**Continent Studys**
-[Continent Study 1 - Asian Landforms & Bodies of Water](https://www.geoguessr.com/quiz/seterra/challenge/LSG97)
+**Continent Studys**  
+[Continent Study 1 (map only)- Asian Landforms & Bodies of Water](https://www.geoguessr.com/quiz/seterra/challenge/LSG97)  
+[Continent Study 1 - Asia](https://quizlet.com/818567019/abeka-5-history-continent-study-1-asia-diagram/?funnelUUID=a7a4463e-8d2b-4930-aac3-36cf2a86563b)
 
-**Geogrpahy Facts**
+**Geogrpahy Facts**  
 [Geography Facts 2 & 3 - Oceans & Continents](https://www.geoguessr.com/quiz/seterra/challenge/7GLEC)
 
 **Quizlet Textbook Review**  
