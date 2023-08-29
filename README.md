@@ -174,8 +174,11 @@
 **Geogrpahy Facts**  
 [Geography Facts 2 & 3 - Oceans & Continents](https://www.geoguessr.com/quiz/seterra/challenge/7GLEC)
 
-**Quizlet Textbook Review**  
+**Comprehension Checks**  
 [Chapter 1](https://quizlet.com/819108949/chapter-1-an-introduction-to-history-and-geography-flash-cards/?funnelUUID=1cd37947-dc6b-4825-b3dc-da03aabdf9d1)
+
+**Chapter Reviews**  
+[Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=ff9776e1-8727-4738-8895-a4d9dceae734)
 
 ### Language
 [Sentence Types](https://quizlet.com/725409094/abeka-language-sentence-types-flash-cards/?funnelUUID=f5d6ebf4-282d-42a8-b070-797344959538)  
