@@ -178,7 +178,8 @@
 [Chapter 1](https://quizlet.com/819108949/chapter-1-an-introduction-to-history-and-geography-flash-cards/?funnelUUID=1cd37947-dc6b-4825-b3dc-da03aabdf9d1)
 
 **Chapter Reviews**  
-[Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=ff9776e1-8727-4738-8895-a4d9dceae734)
+[Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=ff9776e1-8727-4738-8895-a4d9dceae734),
+[Chapter 2](https://quizlet.com/821318803/abeka-5-history-chapter-2-review-fertile-crescent-of-civilization-diagram/?funnelUUID=c2c840fb-8a57-4946-be41-3efc3bccea19)
 
 ### Language
 [Sentence Types](https://quizlet.com/725409094/abeka-language-sentence-types-flash-cards/?funnelUUID=f5d6ebf4-282d-42a8-b070-797344959538)  
