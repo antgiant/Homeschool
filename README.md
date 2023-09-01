@@ -192,7 +192,12 @@
 [Quotation Marks or Underline](https://quizlet.com/725404154/language-when-to-use-quotation-marks-or-underlining-flash-cards/?funnelUUID=30771039-bff6-49f0-9289-0eb34f924329)
 
 ### Science
-**Quizlet Science Textbook Review**  
+**Comprehension Checks**  
+Chapter 1   
+Chapter 2
+[2.1-2.2](https://quizlet.com/821696545/abeka-5-science-comprehension-checks-21-22-the-amazing-animals-flash-cards/?funnelUUID=c2a818e3-259a-4623-b661-2da4bc7db83f),
+[2.3](https://quizlet.com/821700493/abeka-5-science-comprehension-checks-23-the-amazing-animals-flash-cards/?funnelUUID=ead6d283-1ec4-4659-adc4-e057ee5e8fac),
+[2.4-2.6](https://quizlet.com/821692632/abeka-5-science-comprehension-checks-24-26-the-amazing-animals-flash-cards/?funnelUUID=49660c71-bb8b-4148-b7d3-d0ed87bf0dca)  
 
 ### Spelling
 
