@@ -194,13 +194,16 @@
 ### Science
 **Comprehension Checks**  
 Chapter 1: 
-[1.1-1.4](https://quizlet.com/821705661/abeka-5-science-comprehension-checks-11-14-investigating-nature-flash-cards/?funnelUUID=9679c23a-0f12-4734-b41c-ae696817e82c),
-[1.5-1.6](https://quizlet.com/821708461/abeka-5-science-comprehension-checks-15-16-investigating-nature-flash-cards/?funnelUUID=8e7579d3-ace3-450f-b067-548a8a674b2e)
-
+[1.1-1.4](https://quizlet.com/821705661/abeka-5-science-11-14-comprehension-check-investigating-nature-flash-cards/?funnelUUID=620c53f1-1068-4481-867b-d7a269951111), 
+[1.5-1.6](https://quizlet.com/821708461/abeka-5-science-15-16-comprehension-checks-investigating-nature-flash-cards/?funnelUUID=8078cb5b-0eeb-4870-9313-6cd34828322e), 
+[1.7-1.8](https://quizlet.com/821713234/abeka-5-science-17-18-comprehension-checks-investigating-nature-flash-cards/?funnelUUID=4d55f53f-4cc1-4e60-b15b-b31bb8882505)  
 Chapter 2: 
-[2.1-2.2](https://quizlet.com/821696545/abeka-5-science-comprehension-checks-21-22-the-amazing-animals-flash-cards/?funnelUUID=c2a818e3-259a-4623-b661-2da4bc7db83f),
-[2.3](https://quizlet.com/821700493/abeka-5-science-comprehension-checks-23-the-amazing-animals-flash-cards/?funnelUUID=ead6d283-1ec4-4659-adc4-e057ee5e8fac),
-[2.4-2.6](https://quizlet.com/821692632/abeka-5-science-comprehension-checks-24-26-the-amazing-animals-flash-cards/?funnelUUID=49660c71-bb8b-4148-b7d3-d0ed87bf0dca)  
+[2.1-2.2](https://quizlet.com/821696545/abeka-5-science-21-22-comprehension-checks-the-amazing-animals-flash-cards/?funnelUUID=dfd00aac-42a3-4826-a16a-7ee0a0cd8f6e), 
+[2.3](https://quizlet.com/821700493/abeka-5-science-23-comprehension-checks-the-amazing-animals-flash-cards/?funnelUUID=40596789-5449-42b4-acb5-c9724e91bed0), 
+[2.4-2.6](https://quizlet.com/821692632/abeka-5-science-24-26-comprehension-checks-the-amazing-animals-flash-cards/?funnelUUID=f14d97cb-ef33-4109-af7f-6edfcd15bcba)  
+
+**Chapter Reviews**  
+[Chapter 1](https://quizlet.com/821753983/abeka-5-science-1-chapter-review-flash-cards/?funnelUUID=c384d0a6-b1de-4de4-882a-29113cb03a2b),
 
 ### Spelling
 
