@@ -193,7 +193,10 @@
 
 ### Science
 **Comprehension Checks**  
-Chapter 1:   
+Chapter 1: 
+[1.1-1.4](https://quizlet.com/821705661/abeka-5-science-comprehension-checks-11-14-investigating-nature-flash-cards/?funnelUUID=9679c23a-0f12-4734-b41c-ae696817e82c),
+[1.5-1.6](https://quizlet.com/821708461/abeka-5-science-comprehension-checks-15-16-investigating-nature-flash-cards/?funnelUUID=8e7579d3-ace3-450f-b067-548a8a674b2e)
+
 Chapter 2: 
 [2.1-2.2](https://quizlet.com/821696545/abeka-5-science-comprehension-checks-21-22-the-amazing-animals-flash-cards/?funnelUUID=c2a818e3-259a-4623-b661-2da4bc7db83f),
 [2.3](https://quizlet.com/821700493/abeka-5-science-comprehension-checks-23-the-amazing-animals-flash-cards/?funnelUUID=ead6d283-1ec4-4659-adc4-e057ee5e8fac),
