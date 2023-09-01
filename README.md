@@ -95,6 +95,24 @@
 [4.7-4.8](https://quizlet.com/725378919/abeka-4-science-chapter-4-47-48-flash-cards/?funnelUUID=7f29bc72-fe2a-4ff6-bffa-04b841893201),
 [Chapter 4 Review](https://quizlet.com/725388866/abeka-4-science-chapter-4-chapter-checkup-flash-cards/?funnelUUID=c921071f-eae6-48ac-a0a6-e36760ff5ddc)
 
+**Teaching Charts**  
+[Charts 1-2 Parts of an Insect](https://quizlet.com/821759607/abeka-4-6-science-teaching-chart-1-body-parts-of-an-insect-diagram/?funnelUUID=e4e1c048-2513-4a45-ace4-4446b0c77fea)  
+[Charts 5-6 Broadleaf Trees](https://quizlet.com/821760652/abeka-4-6-science-teaching-chart-5-6-broadleaf-trees-diagram/?funnelUUID=61299782-eb56-4af3-a5d9-3539d09ec368)  
+[Charts 7-8 Conifers A](https://quizlet.com/821761029/abeka-4-6-science-teaching-chart-7-8-conifers-chart-a-diagram/?funnelUUID=cff4f996-f09d-43c3-86d3-6278725e3647)  
+[Charts 9-10 Conifers B](https://quizlet.com/821761408/abeka-4-6-science-teaching-chart-9-10-conifers-chart-b-diagram/?funnelUUID=e20867a6-f207-4791-a039-c61ae0a10ba9)  
+[Charts 11-12 Conifers C & Palm](https://quizlet.com/821761620/abeka-4-6-science-teaching-chart-11-12-conifers-chart-c-palms-diagram/?funnelUUID=e56d8376-5223-45d4-b58a-dbc49fd837df)  
+[Charts 13-14 Parts of a Flower](https://quizlet.com/821761873/abeka-4-6-science-teaching-chart-13-14-parts-of-a-flower-diagram/?funnelUUID=6913bc16-4d48-43e1-8d02-3d90b29ae9eb)  
+[Charts 15-16 Water Cycle](https://quizlet.com/821762077/abeka-4-6-science-teaching-chart-15-16-the-water-cycle-diagram/?funnelUUID=896e5825-477e-4163-929f-5276341d21a2)  
+[Charts 17-18 Structure of the Earth](https://quizlet.com/821762403/abeka-4-6-science-teaching-chart-17-18-structure-of-the-earth-diagram/?funnelUUID=61e59f9e-3649-4d70-afa5-aafeb739f434)  
+[Charts 21-22 Our Solar System](https://quizlet.com/821762842/abeka-4-6-science-teaching-chart-21-22-our-solar-system-diagram/?funnelUUID=66c3ed35-248a-40a6-8ea9-30dab174b540)  
+[Charts 23-24 Constellations of the Northern Hemisphere A](https://quizlet.com/821763195/abeka-4-6-science-teaching-chart-23-24-constellations-of-the-northern-hemisphere-chart-a-diagram/?funnelUUID=f7d6b8de-94be-4abe-8def-1f9ccafa63ca)  
+[Charts 25-26 Constellations of the Northern Hemisphere B](https://quizlet.com/821763518/abeka-4-6-science-teaching-chart-25-26-constellations-of-the-northern-hemisphere-chart-b-diagram/?funnelUUID=af56c836-9eb6-40f2-9dd8-21f7aba1fa2d)  
+[Charts 27-28 Constellations of the Northern Hemisphere C](https://quizlet.com/821764165/abeka-4-6-science-teaching-chart-27-28-constellations-of-the-northern-hemisphere-chart-c-diagram/?funnelUUID=4ac7fbd9-c104-46ae-8149-f3eb47df3cb5)  
+[Charts 29-30 Constellations of the Northern Hemisphere D](https://quizlet.com/821764396/abeka-4-6-science-teaching-chart-29-30-constellations-of-the-northern-hemisphere-chart-d-diagram/?funnelUUID=eb1c7976-8c13-40bc-b3c0-bd444c09b875)  
+[Charts 31-32 Constellations of the Northern Hemisphere E](https://quizlet.com/821764562/abeka-4-6-science-teaching-chart-31-32-constellations-of-the-northern-hemisphere-chart-e-diagram/?funnelUUID=55c1ee49-3e3e-422f-b440-d8a4cfd15b7f)  
+[Charts 33-34 Constellations of the Southern Hemisphere](https://quizlet.com/821764898/abeka-4-6-science-teaching-chart-33-34-constellations-of-the-southern-hemisphere-diagram/?funnelUUID=4c7d3348-21bf-4e0d-96e9-b0d38444b949)  
+[Charts 35-36 Phases of the Moon](https://quizlet.com/821765292/abeka-4-6-science-teaching-chart-35-36-phases-of-the-moon-diagram/?funnelUUID=167f0c0a-83d2-49fe-b6b0-f35b9472c67d)
+
 ### Spelling
 [Llist 1](https://quizlet.com/715500439/abeka-4-spelling-list-1-flash-cards/?funnelUUID=0778a386-1679-4a69-8bbb-b89e1b3f1eb8),
 [Llist 2](https://quizlet.com/717752408/abeka-4-spelling-list-2-flash-cards/?funnelUUID=7f611cc3-34c7-4950-b2b8-032d2bee1d8f),
@@ -205,7 +223,7 @@ Chapter 2:
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821753983/abeka-5-science-1-chapter-review-flash-cards/?funnelUUID=c384d0a6-b1de-4de4-882a-29113cb03a2b),
 
-**Teaching Charts**
+**Teaching Charts**  
 [Charts 1-2 Parts of an Insect](https://quizlet.com/821759607/abeka-4-6-science-teaching-chart-1-body-parts-of-an-insect-diagram/?funnelUUID=e4e1c048-2513-4a45-ace4-4446b0c77fea)  
 [Charts 5-6 Broadleaf Trees](https://quizlet.com/821760652/abeka-4-6-science-teaching-chart-5-6-broadleaf-trees-diagram/?funnelUUID=61299782-eb56-4af3-a5d9-3539d09ec368)  
 [Charts 7-8 Conifers A](https://quizlet.com/821761029/abeka-4-6-science-teaching-chart-7-8-conifers-chart-a-diagram/?funnelUUID=cff4f996-f09d-43c3-86d3-6278725e3647)  
@@ -268,6 +286,25 @@ Chapter 2:
 [Abeka 6 Maps 23-24 South America](https://quizlet.com/792806967/abeka-6-maps-23-24-south-america-diagram/?new)  
 [Abeka 6 Maps 25-26 Landforms & Bodies of Water A](https://quizlet.com/792800307/abeka-6-maps-25-26-landforms-bodies-of-water-a-diagram/?funnelUUID=e8afeb22-0008-44af-812c-9f7d2f60d85d)  
 [Abeka 6 Maps 27-28 Landforms & Bodies of Water B](https://quizlet.com/792794740/abeka-6-maps-27-28-landforms-bodies-of-water-b-diagram/?funnelUUID=972ebd34-da92-4e48-a7b7-bc260fbeacc3)
+
+### Science
+**Teaching Charts**  
+[Charts 1-2 Parts of an Insect](https://quizlet.com/821759607/abeka-4-6-science-teaching-chart-1-body-parts-of-an-insect-diagram/?funnelUUID=e4e1c048-2513-4a45-ace4-4446b0c77fea)  
+[Charts 5-6 Broadleaf Trees](https://quizlet.com/821760652/abeka-4-6-science-teaching-chart-5-6-broadleaf-trees-diagram/?funnelUUID=61299782-eb56-4af3-a5d9-3539d09ec368)  
+[Charts 7-8 Conifers A](https://quizlet.com/821761029/abeka-4-6-science-teaching-chart-7-8-conifers-chart-a-diagram/?funnelUUID=cff4f996-f09d-43c3-86d3-6278725e3647)  
+[Charts 9-10 Conifers B](https://quizlet.com/821761408/abeka-4-6-science-teaching-chart-9-10-conifers-chart-b-diagram/?funnelUUID=e20867a6-f207-4791-a039-c61ae0a10ba9)  
+[Charts 11-12 Conifers C & Palm](https://quizlet.com/821761620/abeka-4-6-science-teaching-chart-11-12-conifers-chart-c-palms-diagram/?funnelUUID=e56d8376-5223-45d4-b58a-dbc49fd837df)  
+[Charts 13-14 Parts of a Flower](https://quizlet.com/821761873/abeka-4-6-science-teaching-chart-13-14-parts-of-a-flower-diagram/?funnelUUID=6913bc16-4d48-43e1-8d02-3d90b29ae9eb)  
+[Charts 15-16 Water Cycle](https://quizlet.com/821762077/abeka-4-6-science-teaching-chart-15-16-the-water-cycle-diagram/?funnelUUID=896e5825-477e-4163-929f-5276341d21a2)  
+[Charts 17-18 Structure of the Earth](https://quizlet.com/821762403/abeka-4-6-science-teaching-chart-17-18-structure-of-the-earth-diagram/?funnelUUID=61e59f9e-3649-4d70-afa5-aafeb739f434)  
+[Charts 21-22 Our Solar System](https://quizlet.com/821762842/abeka-4-6-science-teaching-chart-21-22-our-solar-system-diagram/?funnelUUID=66c3ed35-248a-40a6-8ea9-30dab174b540)  
+[Charts 23-24 Constellations of the Northern Hemisphere A](https://quizlet.com/821763195/abeka-4-6-science-teaching-chart-23-24-constellations-of-the-northern-hemisphere-chart-a-diagram/?funnelUUID=f7d6b8de-94be-4abe-8def-1f9ccafa63ca)  
+[Charts 25-26 Constellations of the Northern Hemisphere B](https://quizlet.com/821763518/abeka-4-6-science-teaching-chart-25-26-constellations-of-the-northern-hemisphere-chart-b-diagram/?funnelUUID=af56c836-9eb6-40f2-9dd8-21f7aba1fa2d)  
+[Charts 27-28 Constellations of the Northern Hemisphere C](https://quizlet.com/821764165/abeka-4-6-science-teaching-chart-27-28-constellations-of-the-northern-hemisphere-chart-c-diagram/?funnelUUID=4ac7fbd9-c104-46ae-8149-f3eb47df3cb5)  
+[Charts 29-30 Constellations of the Northern Hemisphere D](https://quizlet.com/821764396/abeka-4-6-science-teaching-chart-29-30-constellations-of-the-northern-hemisphere-chart-d-diagram/?funnelUUID=eb1c7976-8c13-40bc-b3c0-bd444c09b875)  
+[Charts 31-32 Constellations of the Northern Hemisphere E](https://quizlet.com/821764562/abeka-4-6-science-teaching-chart-31-32-constellations-of-the-northern-hemisphere-chart-e-diagram/?funnelUUID=55c1ee49-3e3e-422f-b440-d8a4cfd15b7f)  
+[Charts 33-34 Constellations of the Southern Hemisphere](https://quizlet.com/821764898/abeka-4-6-science-teaching-chart-33-34-constellations-of-the-southern-hemisphere-diagram/?funnelUUID=4c7d3348-21bf-4e0d-96e9-b0d38444b949)  
+[Charts 35-36 Phases of the Moon](https://quizlet.com/821765292/abeka-4-6-science-teaching-chart-35-36-phases-of-the-moon-diagram/?funnelUUID=167f0c0a-83d2-49fe-b6b0-f35b9472c67d)
 
 ### Spelling
 [List 2](https://quizlet.com/718596996/abeka-6-spelling-list-2-flash-cards/?funnelUUID=9d5bbf31-b640-4fab-bfb4-f4d8d3ef3546)  
