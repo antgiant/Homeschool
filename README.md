@@ -398,6 +398,8 @@ Chapter 2:
 [Geography Project 2A: The Modern Middle East](https://quizlet.com/825134462/abeka-7-history-geography-project-2a-the-modern-middle-east-diagram/?funnelUUID=c6f41584-d2f1-4040-8e24-0f8a6b31e358)  
 [Geography Project 2B: The Modern Middle East](https://quizlet.com/825142626/abeka-7-history-geography-project-2b-the-modern-middle-east-flash-cards/?funnelUUID=82875a93-5e34-463a-a1c8-7b9cced7cfab)  
 [Geography Project 3A: Asia](https://quizlet.com/825145151/abeka-7-history-geography-project-3a-asia-diagram/?funnelUUID=4939b9b3-20c2-424e-b695-c0cec18a834b)  
+[Geography Project 3B: Asia](https://quizlet.com/825146650/abeka-7-history-geography-project-3b-asia-diagram/?funnelUUID=34969459-f9df-46ae-8f5f-bedb3529001d)  
+[Geography Project 3C: Asia](https://quizlet.com/825153611/abeka-7-history-geography-project-3c-asia-diagram/?funnelUUID=7fdb1447-2b14-4d72-8d5b-e530e812ca34)  
 
 **Textbook Review**  
 [Chapter 1, 2, & 3 Reivews](https://quizlet.com/820416646/abeka-7-history-chapter-1-2-and-3-beginning-of-world-history-the-ancient-middle-east-from-sumer-to-cannan-down-to-egypt-flash-cards/?funnelUUID=261cbfe0-4b69-4301-a0b8-f641fdd384ec)  
