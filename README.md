@@ -389,3 +389,13 @@ Chapter 2:
 [Homonyms](https://quizlet.com/777921461/abeka-6-spelling-list-33-homonyms-flash-cards/?funnelUUID=a4171518-ec4c-4171-9593-9be4a251668d)  
 [List 34 Review](https://quizlet.com/777921585/abeka-6-spelling-list-34-spelling-flash-cards/?funnelUUID=a938e701-c9e8-4f09-9271-7173a0362b8b),
 [Vocabulary](https://quizlet.com/777921705/abeka-6-spelling-list-34-vocabulary-flash-cards/?funnelUUID=b4635a1c-7ce2-49e5-9586-504028a7a5f5)
+
+## 7th Grade
+### History
+**Geography Studies of the Eastern Hemisphere**  
+[The World at a Glance](https://quizlet.com/825104703/abeka-7-history-the-world-at-a-glance-geography-studies-flash-cards/?funnelUUID=c1c05855-df90-42b3-8b77-88fe1f2f9f94)  
+[Geogrpahy Project 1: The Fertile Crescent](https://quizlet.com/825130249/abeka-7-history-geography-project-1-the-fertile-crescent-diagram/?funnelUUID=a95841a4-1416-4d49-983a-58d1aa70d1a5)  
+
+**Textbook Review**  
+[Chapter 1, 2, & 3 Reivews](https://quizlet.com/820416646/abeka-7-history-chapter-1-2-and-3-beginning-of-world-history-the-ancient-middle-east-from-sumer-to-cannan-down-to-egypt-flash-cards/?funnelUUID=261cbfe0-4b69-4301-a0b8-f641fdd384ec)  
+
