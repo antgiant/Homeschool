@@ -184,10 +184,12 @@
 
 ### History & Geography
 **Seterra Maps**  
-[Map 1-2 Eastern Hemisphere (Europe)](https://www.geoguessr.com/quiz/seterra/challenge/KLWPBG), 
-[Map 1-2 Eastern Hemisphere (Africa)](https://www.geoguessr.com/quiz/seterra/challenge/QETW78), 
-[Map 1-2 Eastern Hemisphere (Asia)](https://www.geoguessr.com/quiz/seterra/challenge/UXT25F), 
-[Map 1-2 Eastern Hemisphere (Oceana)](https://www.geoguessr.com/quiz/seterra/challenge/MA88NB)  
+Map 1-2 Eastern Hemisphere [(Europe)](https://www.geoguessr.com/quiz/seterra/challenge/KLWPBG), 
+[(Africa)](https://www.geoguessr.com/quiz/seterra/challenge/QETW78), 
+[(Asia)](https://www.geoguessr.com/quiz/seterra/challenge/UXT25F), 
+[(Oceana)](https://www.geoguessr.com/quiz/seterra/challenge/MA88NB)
+
+
 
 [Map 3-4 World Physial](https://www.geoguessr.com/quiz/seterra/challenge/GK5RJX)  
 
@@ -196,7 +198,13 @@
 [Continent Study 1 - Asia](https://quizlet.com/818567019/abeka-5-history-continent-study-1-asia-diagram/?funnelUUID=a7a4463e-8d2b-4930-aac3-36cf2a86563b)
 
 **Geogrpahy Facts**  
-[Geography Facts 2 & 3 - Oceans & Continents](https://www.geoguessr.com/quiz/seterra/challenge/7GLEC)
+[Geography Facts 1 - The Circle of the Earth](https://quizlet.com/818565326/abeka-5-history-geography-facts-1-the-circle-of-the-earth-flash-cards/?funnelUUID=43b6b593-dd3a-4920-99e5-6849d0c9cff7)  
+Geography Facts 2 & 3 - Oceans & Continents [maps](https://www.geoguessr.com/quiz/seterra/challenge/7GLEC), 
+[facts](https://quizlet.com/818566317/abeka-5-history-geography-facts-2-the-earths-oceans-and-seas-flash-cards/?funnelUUID=54c32b0c-7266-4af4-b583-62bc310eda37)  
+[Geography Fatcts 5 - Latitude & Longitude](https://www.geoguessr.com/quiz/seterra/challenge/3UX6F)  
+Geography Facts 6-7 - Bodies of Water and Rivers 
+[Landforms](https://quizlet.com/845707022/abeka-5-history-maps-25-26-landforms-bodies-of-water-diagram/?funnelUUID=f1d3bada-11a9-4f6c-9345-b9d0d28b8835), 
+
 
 **Comprehension Checks**  
 [Chapter 1](https://quizlet.com/819108949/chapter-1-an-introduction-to-history-and-geography-flash-cards/?funnelUUID=1cd37947-dc6b-4825-b3dc-da03aabdf9d1)
