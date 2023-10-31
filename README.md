@@ -198,12 +198,13 @@ Continent Study 1 - Asian Landforms & Bodies of Water
 **Geogrpahy Facts**  
 Geography Facts 1 - The Circle of the Earth [facts](https://quizlet.com/818565326/abeka-5-history-geography-facts-1-the-circle-of-the-earth-flash-cards/?funnelUUID=43b6b593-dd3a-4920-99e5-6849d0c9cff7)  
 Geography Facts 2 & 3 - Oceans & Continents
-[maps](https://www.geoguessr.com/quiz/seterra/challenge/7GLEC), 
-[facts](https://quizlet.com/818566317/abeka-5-history-geography-facts-2-the-earths-oceans-and-seas-flash-cards/?funnelUUID=54c32b0c-7266-4af4-b583-62bc310eda37)  
-Geography Facts 4 - Earth's Hemispheres [facts](https://quizlet.com/846361112/abeka-5-history-geography-facts-4-the-earths-hemispheres-flash-cards/?funnelUUID=dae04ae2-41cc-406e-b896-f03704a0b4fd)  
+[facts](https://quizlet.com/818566317/abeka-5-history-geography-facts-2-the-earths-oceans-and-seas-flash-cards/?funnelUUID=54c32b0c-7266-4af4-b583-62bc310eda37), 
+[maps](https://www.geoguessr.com/quiz/seterra/challenge/7GLEC)  
+Geography Facts 4 - Earth's Hemispheres
+[facts](https://quizlet.com/846361112/abeka-5-history-geography-facts-4-the-earths-hemispheres-flash-cards/?funnelUUID=dae04ae2-41cc-406e-b896-f03704a0b4fd)  
 Geography Fatcts 5 - Latitude & Longitude
-[map](https://www.geoguessr.com/quiz/seterra/challenge/3UX6F),
-[facts](https://quizlet.com/846365359/abeka-5-history-geography-facts-5-latitude-longitude-flash-cards/?funnelUUID=bbe73f64-c0d7-420e-944c-40978034fdd0)  
+[facts](https://quizlet.com/846365359/abeka-5-history-geography-facts-5-latitude-longitude-flash-cards/?funnelUUID=bbe73f64-c0d7-420e-944c-40978034fdd0), 
+[map](https://www.geoguessr.com/quiz/seterra/challenge/3UX6F)  
 Geography Facts 6 - Bodies of Water
 [facts](https://quizlet.com/846370666/abeka-5-history-geography-facts-6-bodies-of-water-flash-cards/?funnelUUID=95610a2b-3d7b-473e-806b-7618ab45f863)  
 Geography Facts 7 - Rivers
