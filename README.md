@@ -188,23 +188,34 @@ Map 1-2 Eastern Hemisphere [(Europe)](https://www.geoguessr.com/quiz/seterra/cha
 [(Africa)](https://www.geoguessr.com/quiz/seterra/challenge/QETW78), 
 [(Asia)](https://www.geoguessr.com/quiz/seterra/challenge/UXT25F), 
 [(Oceana)](https://www.geoguessr.com/quiz/seterra/challenge/MA88NB)  
-[Map 3-4 World Physial](https://www.geoguessr.com/quiz/seterra/challenge/GK5RJX)  
+Map 3-4 [World Physial](https://www.geoguessr.com/quiz/seterra/challenge/GK5RJX)  
 
 **Continent Studys**  
-[Continent Study 1 (map only)- Asian Landforms & Bodies of Water](https://www.geoguessr.com/quiz/seterra/challenge/LSG97)  
-[Continent Study 1 - Asia](https://quizlet.com/818567019/abeka-5-history-continent-study-1-asia-diagram/?funnelUUID=a7a4463e-8d2b-4930-aac3-36cf2a86563b)
+Continent Study 1 - Asian Landforms & Bodies of Water
+[map](https://www.geoguessr.com/quiz/seterra/challenge/LSG97),
+[map & facts](https://quizlet.com/818567019/abeka-5-history-continent-study-1-asia-diagram/?funnelUUID=a7a4463e-8d2b-4930-aac3-36cf2a86563b)
 
 **Geogrpahy Facts**  
-Geography Facts 1 - [The Circle of the Earth](https://quizlet.com/818565326/abeka-5-history-geography-facts-1-the-circle-of-the-earth-flash-cards/?funnelUUID=43b6b593-dd3a-4920-99e5-6849d0c9cff7)  
+Geography Facts 1 - The Circle of the Earth [facts](https://quizlet.com/818565326/abeka-5-history-geography-facts-1-the-circle-of-the-earth-flash-cards/?funnelUUID=43b6b593-dd3a-4920-99e5-6849d0c9cff7)  
 Geography Facts 2 & 3 - Oceans & Continents
 [maps](https://www.geoguessr.com/quiz/seterra/challenge/7GLEC), 
 [facts](https://quizlet.com/818566317/abeka-5-history-geography-facts-2-the-earths-oceans-and-seas-flash-cards/?funnelUUID=54c32b0c-7266-4af4-b583-62bc310eda37)  
-Geography Facts 4 - [Earth's Hemispheres](https://quizlet.com/846361112/abeka-5-history-geography-facts-4-the-earths-hemispheres-flash-cards/?funnelUUID=dae04ae2-41cc-406e-b896-f03704a0b4fd)  
+Geography Facts 4 - Earth's Hemispheres [facts](https://quizlet.com/846361112/abeka-5-history-geography-facts-4-the-earths-hemispheres-flash-cards/?funnelUUID=dae04ae2-41cc-406e-b896-f03704a0b4fd)  
 Geography Fatcts 5 - Latitude & Longitude
 [map](https://www.geoguessr.com/quiz/seterra/challenge/3UX6F),
 [facts](https://quizlet.com/846365359/abeka-5-history-geography-facts-5-latitude-longitude-flash-cards/?funnelUUID=bbe73f64-c0d7-420e-944c-40978034fdd0)  
-Geography Facts 6-7 - Bodies of Water and Rivers 
-[Landforms](https://quizlet.com/845707022/abeka-5-history-maps-25-26-landforms-bodies-of-water-diagram/?funnelUUID=f1d3bada-11a9-4f6c-9345-b9d0d28b8835), 
+Geography Facts 6 - Bodies of Water
+[facts](https://quizlet.com/846370666/abeka-5-history-geography-facts-6-bodies-of-water-flash-cards/?funnelUUID=95610a2b-3d7b-473e-806b-7618ab45f863)  
+Geography Facts 7 - Rivers
+[facts](https://quizlet.com/846371582/abeka-5-history-geography-facts-7-rivers-flash-cards/?funnelUUID=48a3d46d-9ef9-498c-9e47-75aab0aed332), 
+[map](https://www.geoguessr.com/quiz/seterra/challenge/B2QFJU)  
+Geography Facts 8 - Landforms
+[facts](https://quizlet.com/846376293/abeka-5-history-geography-facts-8-landforms-flash-cards/?funnelUUID=b38ddfc7-58b1-453e-a87c-c9689a8545e3), 
+[map](https://quizlet.com/845707022/abeka-5-history-maps-25-26-landforms-bodies-of-water-diagram/?funnelUUID=f1d3bada-11a9-4f6c-9345-b9d0d28b8835)  
+Geography Facts 9 - Mountains and Mountain Ranges
+[facts](https://quizlet.com/846377726/abeka-5-history-geography-facts-9-mountains-and-mountain-ranges-flash-cards/?funnelUUID=23f6765e-dfc6-4ee9-a9ae-10494e358979), 
+[Mountain Ranges](https://www.geoguessr.com/quiz/seterra/challenge/5SPG5V), 
+[Mountains](https://www.geoguessr.com/quiz/seterra/challenge/YYAF26)  
 
 
 **Comprehension Checks**  
