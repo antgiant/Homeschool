@@ -184,6 +184,12 @@
 
 ### History & Geography
 **Seterra Maps**  
+[Map 1-2 Eastern Hemisphere (Europe)](https://www.geoguessr.com/quiz/seterra/challenge/KLWPBG), 
+[Map 1-2 Eastern Hemisphere (Africa)](https://www.geoguessr.com/quiz/seterra/challenge/QETW78), 
+[Map 1-2 Eastern Hemisphere (Asia)](https://www.geoguessr.com/quiz/seterra/challenge/UXT25F), 
+[Map 1-2 Eastern Hemisphere (Oceana)](https://www.geoguessr.com/quiz/seterra/challenge/MA88NB)  
+
+[Map 3-4 World Physial](https://www.geoguessr.com/quiz/seterra/challenge/GK5RJX)  
 
 **Continent Studys**  
 [Continent Study 1 (map only)- Asian Landforms & Bodies of Water](https://www.geoguessr.com/quiz/seterra/challenge/LSG97)  
