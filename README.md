@@ -432,6 +432,14 @@ Chapter 2:
 [Geography Project 3B: Asia](https://quizlet.com/825146650/abeka-7-history-geography-project-3b-asia-diagram/?funnelUUID=34969459-f9df-46ae-8f5f-bedb3529001d)  
 [Geography Project 3C: Asia](https://quizlet.com/825153611/abeka-7-history-geography-project-3c-asia-diagram/?funnelUUID=7fdb1447-2b14-4d72-8d5b-e530e812ca34)  
 [Geography Project 4: Ancient Empires](https://quizlet.com/825155561/abeka-7-history-geography-project-4-ancient-empires-diagram/?funnelUUID=ce2906a4-2e57-4ba2-9c6a-2cbf250e02ff)  
+Geography Project 8: Europe
+8A [facts](https://quizlet.com/846833396/abeka-7-history-geography-project-8a-europe-flash-cards/?funnelUUID=1944e466-eb86-44f9-9d73-89519b47749f), 
+8B [Facts](https://quizlet.com/846835574/abeka-7-history-geography-project-8b-europe-map-study-flash-cards/?funnelUUID=0af403f9-995a-4dd3-83f4-57059c45eacd) 
+[Countries](https://www.geoguessr.com/quiz/seterra/challenge/QFVBYR) 
+[Landforms](https://www.geoguessr.com/quiz/seterra/challenge/WS7MC2), 
+8C
+[Capitals](https://www.geoguessr.com/quiz/seterra/challenge/9JGYQ2) 
+[Navigation](https://quizlet.com/846839891/abeka-7-history-geography-project-8c-europe-navigation-flash-cards/?funnelUUID=ee51afd0-f504-4ca9-a443-72ee571fef09)  
 Geography Project 9: The British Isles
 [Countries](https://www.geoguessr.com/quiz/seterra/challenge/KZ3YT5), 
 [Capitals & Important Cities](https://www.geoguessr.com/quiz/seterra/challenge/LEH3AN), 
