@@ -189,6 +189,10 @@ Map 1-2 Eastern Hemisphere [(Europe)](https://www.geoguessr.com/quiz/seterra/cha
 [(Asia)](https://www.geoguessr.com/quiz/seterra/challenge/UXT25F), 
 [(Oceana)](https://www.geoguessr.com/quiz/seterra/challenge/MA88NB)  
 Map 3-4 [World Physial](https://www.geoguessr.com/quiz/seterra/challenge/GK5RJX)  
+Map 13-14 Asia
+[countries](https://www.geoguessr.com/quiz/seterra/challenge/CBLCSP), 
+[capitals](https://www.geoguessr.com/quiz/seterra/challenge/SNK7U9), 
+[landforms](https://www.geoguessr.com/quiz/seterra/challenge/AJ8H8L)  
 
 **Continent Studys**  
 Continent Study 1 - Asian Landforms & Bodies of Water
