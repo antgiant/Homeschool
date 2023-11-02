@@ -451,6 +451,12 @@ Geography Project 10: France
 [Countries](https://www.geoguessr.com/quiz/seterra/challenge/5GUPQH), 
 [Cities](https://www.geoguessr.com/quiz/seterra/challenge/EBPMUN),
 [Geographical Features](https://www.geoguessr.com/quiz/seterra/challenge/JS4JFA)  
+Geography Project 11: Australia & Oceana 
+11A
+[Countries & Cities](https://www.geoguessr.com/quiz/seterra/challenge/WU5JDX) 
+[Geographical Features](https://www.geoguessr.com/quiz/seterra/challenge/M6JEDK), 
+11B
+[Facts](https://quizlet.com/846940108/abeka-7-history-geography-project-11b-australia-oceania-flash-cards/?funnelUUID=2601e17f-8728-40a4-b05f-3467e58dc7a4)  
 
 **Textbook Review**  
 [Chapter 1, 2, & 3 Reivews](https://quizlet.com/820416646/abeka-7-history-chapter-1-2-and-3-beginning-of-world-history-the-ancient-middle-east-from-sumer-to-cannan-down-to-egypt-flash-cards/?funnelUUID=261cbfe0-4b69-4301-a0b8-f641fdd384ec)  
