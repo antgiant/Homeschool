@@ -447,6 +447,10 @@ Geography Project 9: The British Isles
 [Countries](https://www.geoguessr.com/quiz/seterra/challenge/KZ3YT5), 
 [Capitals & Important Cities](https://www.geoguessr.com/quiz/seterra/challenge/LEH3AN), 
 [Geographical Features](https://www.geoguessr.com/quiz/seterra/challenge/A6PNCD)  
+Geography Project 10: France
+[Countries](https://www.geoguessr.com/quiz/seterra/challenge/5GUPQH), 
+[Cities](https://www.geoguessr.com/quiz/seterra/challenge/EBPMUN),
+[Geographical Features](https://www.geoguessr.com/quiz/seterra/challenge/JS4JFA)  
 
 **Textbook Review**  
 [Chapter 1, 2, & 3 Reivews](https://quizlet.com/820416646/abeka-7-history-chapter-1-2-and-3-beginning-of-world-history-the-ancient-middle-east-from-sumer-to-cannan-down-to-egypt-flash-cards/?funnelUUID=261cbfe0-4b69-4301-a0b8-f641fdd384ec)  
