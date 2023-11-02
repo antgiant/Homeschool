@@ -463,8 +463,9 @@ Geography Project 12: Africa
 [Capitals](https://www.geoguessr.com/quiz/seterra/challenge/UXXKC3) 
 [Geographical Feasurs](https://www.geoguessr.com/quiz/seterra/challenge/LRYQG9), 
 12B
-
-
+[Facts & Capitals](https://quizlet.com/846959028/abeka-7-history-geography-project-12b-africa-flash-cards/?funnelUUID=9606dc29-2a2f-428a-9769-2456a41b8b73)  
+Geography Project 13: Nations of the World
+[Countries & Bodies of Water](https://www.geoguessr.com/quiz/seterra/challenge/JNV2LQ)  
 
 **Textbook Review**  
 [Chapter 1, 2, & 3 Reivews](https://quizlet.com/820416646/abeka-7-history-chapter-1-2-and-3-beginning-of-world-history-the-ancient-middle-east-from-sumer-to-cannan-down-to-egypt-flash-cards/?funnelUUID=261cbfe0-4b69-4301-a0b8-f641fdd384ec)  
