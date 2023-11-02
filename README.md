@@ -457,6 +457,14 @@ Geography Project 11: Australia & Oceana
 [Geographical Features](https://www.geoguessr.com/quiz/seterra/challenge/M6JEDK), 
 11B
 [Facts](https://quizlet.com/846940108/abeka-7-history-geography-project-11b-australia-oceania-flash-cards/?funnelUUID=2601e17f-8728-40a4-b05f-3467e58dc7a4)  
+Geography Project 12: Africa
+12A
+[Countries](https://www.geoguessr.com/quiz/seterra/challenge/C3KDCU)
+[Capitals](https://www.geoguessr.com/quiz/seterra/challenge/UXXKC3) 
+[Geographical Feasurs](https://www.geoguessr.com/quiz/seterra/challenge/LRYQG9), 
+12B
+
+
 
 **Textbook Review**  
 [Chapter 1, 2, & 3 Reivews](https://quizlet.com/820416646/abeka-7-history-chapter-1-2-and-3-beginning-of-world-history-the-ancient-middle-east-from-sumer-to-cannan-down-to-egypt-flash-cards/?funnelUUID=261cbfe0-4b69-4301-a0b8-f641fdd384ec)  
