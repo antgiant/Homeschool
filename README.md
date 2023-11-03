@@ -236,11 +236,20 @@ Geography Facts 9 - Mountains and Mountain Ranges
 
 
 **Comprehension Checks**  
-[Chapter 1](https://quizlet.com/819108949/chapter-1-an-introduction-to-history-and-geography-flash-cards/?funnelUUID=1cd37947-dc6b-4825-b3dc-da03aabdf9d1)
+[Chapter 1](https://quizlet.com/819108949/abeka-5-history-chapter-1-comprehension-checks-an-introduction-to-history-and-geography-flash-cards/?funnelUUID=efca3c68-dd13-417b-a31c-4c7648451934), 
+[Chapter 2](https://quizlet.com/824996707/abeka-5-history-chapter-2-comprehension-checks-flash-cards/?funnelUUID=a5adab43-96ea-4e73-8add-feeeebfbb1cb), 
+[Chapter 3](https://quizlet.com/823993571/abeka-5-history-chapter-3-comprehension-checks-a-f-flash-cards/?funnelUUID=c0042335-483e-42df-8d45-c6c79200e42d), 
+[Chapter 4](https://quizlet.com/841544409/abeka-5-history-chapter-4-comprehension-checks-flash-cards/?funnelUUID=2c4fff1b-3dc3-4cde-bcf4-70e2c006ca12),
+[Chapter 5](https://quizlet.com/847635948/abeka-5-history-chapter-5-comprehension-check-1-6-flash-cards/?funnelUUID=a6d3380a-c2ca-415f-8f79-590f715f1925), 
+[Chapter 6 (except 4)](https://quizlet.com/847639111/abeka-5-history-chapter-6-comprehension-check-1-2-3-5-flash-cards/?funnelUUID=38400bb5-7d81-470b-bc81-4eb8b59df6a7)  
 
 **Chapter Reviews**  
-[Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=ff9776e1-8727-4738-8895-a4d9dceae734),
-[Chapter 2](https://quizlet.com/821318803/abeka-5-history-chapter-2-review-fertile-crescent-of-civilization-diagram/?funnelUUID=c2c840fb-8a57-4946-be41-3efc3bccea19)
+[Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=4db2a61d-f261-4b9b-8d01-2d692582675a),
+[Chapter 2](https://quizlet.com/821318803/abeka-5-history-chapter-2-review-fertile-crescent-of-civilization-diagram/?funnelUUID=76bb296c-290c-4f4e-9135-17214e1827b9), 
+[Chapter 3](https://quizlet.com/847634101/abeka-5-history-chapter-3-chapter-checkup-b-e-flash-cards/?funnelUUID=5c52e5d7-c026-4b18-bce8-a854a781c4a8),
+[Chapter 4](https://quizlet.com/832422757/abeka-5-history-chapter-4-checkup-flash-cards/?funnelUUID=a1117370-8a11-45cd-986c-8076cf589dc3), 
+[Chapter 5](https://quizlet.com/837391912/abeka-5-history-chapter-5-checkup-flash-cards/?funnelUUID=8dfb54eb-7184-434d-bc00-68af72dc0032), 
+[Chapter 6](https://quizlet.com/844191419/abeka-5-history-chapter-6-checkup-flash-cards/?funnelUUID=0fb03c53-05e2-4ea1-adf9-b921917bb558)  
 
 ### Language
 [Sentence Types](https://quizlet.com/725409094/abeka-language-sentence-types-flash-cards/?funnelUUID=f5d6ebf4-282d-42a8-b070-797344959538)  
