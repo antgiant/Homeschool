@@ -255,15 +255,19 @@ Geography Facts 9 - Mountains and Mountain Ranges
 ### Science
 **Comprehension Checks**  
 Chapter 1: 
-[1.1-1.4](https://quizlet.com/821705661/abeka-5-science-11-14-comprehension-check-investigating-nature-flash-cards/?funnelUUID=620c53f1-1068-4481-867b-d7a269951111), 
-[1.5-1.6](https://quizlet.com/821708461/abeka-5-science-15-16-comprehension-checks-investigating-nature-flash-cards/?funnelUUID=8078cb5b-0eeb-4870-9313-6cd34828322e), 
-[1.7-1.8](https://quizlet.com/821713234/abeka-5-science-17-18-comprehension-checks-investigating-nature-flash-cards/?funnelUUID=4d55f53f-4cc1-4e60-b15b-b31bb8882505)  
+[1.1-1.4](https://quizlet.com/821705661/abeka-5-science-chapter-1-comprehension-check-11-14-investigating-nature-flash-cards/?funnelUUID=2fe2a951-31bf-469c-8fee-67a427c9621e), 
+[1.5-1.6](https://quizlet.com/821708461/abeka-5-science-chapter-1-comprehension-check-15-16-investigating-nature-flash-cards/?funnelUUID=d2c9ca02-ba76-4946-9393-273f9a74fe48), 
+[1.7-1.8](https://quizlet.com/821713234/abeka-5-science-chapter-1-comprehension-checks-17-18-investigating-nature-flash-cards/?funnelUUID=2dbec771-cfb8-48f2-a5c6-a2614997b8af)  
 Chapter 2: 
-[2.1-2.2](https://quizlet.com/821696545/abeka-5-science-21-22-comprehension-checks-the-amazing-animals-flash-cards/?funnelUUID=dfd00aac-42a3-4826-a16a-7ee0a0cd8f6e), 
-[2.3](https://quizlet.com/821700493/abeka-5-science-23-comprehension-checks-the-amazing-animals-flash-cards/?funnelUUID=40596789-5449-42b4-acb5-c9724e91bed0), 
-[2.4-2.6](https://quizlet.com/821692632/abeka-5-science-24-26-comprehension-checks-the-amazing-animals-flash-cards/?funnelUUID=f14d97cb-ef33-4109-af7f-6edfcd15bcba)  
+[2.1-2.2](https://quizlet.com/821696545/abeka-5-science-chapter-2-comprehension-check-21-22-the-amazing-animals-flash-cards/?funnelUUID=006dad59-8c24-4c8c-a089-0d7870f8ed67), 
+[2.3](https://quizlet.com/821700493/abeka-5-science-chapter-2-comprehension-check-23-the-amazing-animals-flash-cards/?funnelUUID=2f43127b-2760-4ca9-8887-90c53bc4577e), 
+[2.4-2.8](https://quizlet.com/834490437/abeka-5-science-chapter-2-comprehension-check-24-28-flash-cards/?funnelUUID=6c89d365-43a9-4e1b-a4e2-db8f94046e56), 
+[2.9-2.10](https://quizlet.com/825375738/abeka-5-science-chapter-2-comprehension-check-29-210-flash-cards/?funnelUUID=a5b72b3a-3deb-44b9-8bab-ce07ababbade)  
 Chapter 3:
-
+[3.1](https://quizlet.com/835118044/abeka-5-science-chapter-3-comprehension-check-31-flash-cards/?funnelUUID=467b9c92-bdc6-4735-99cb-28d63776f969), 
+[3.2](https://quizlet.com/834486476/abeka-5-science-chapter-3-comprehension-check-32-flash-cards/?funnelUUID=7752ebb3-f7e1-48df-b972-ac95dc610490), 
+[3.3](https://quizlet.com/830799719/abeka-5-science-chapter-3-comprehension-checks-33-34-flash-cards/?funnelUUID=78749e30-1fe7-4b3f-b211-b4b1855570b2), 
+[3.4-3.5](https://quizlet.com/834488124/abeka-5-science-chapter-3-comprehension-check-34-35-flash-cards/?funnelUUID=4f43fe65-0a62-4dc0-a86b-8b301c6cddfb)  
 Chapter 4:
 [4.3](https://quizlet.com/844530633/abeka-5-science-chapter-4-comprehension-check-43-flash-cards/?funnelUUID=0c588ced-b5ca-48cf-8aec-8b62c351d674), 
 [4.4](https://quizlet.com/844895927/abeka-5-science-chapter-4-comprehension-checks-4-5-flash-cards/?funnelUUID=fa86e884-4ac2-4677-9e67-cb23e3249b74), 
@@ -273,7 +277,8 @@ Chapter 4:
 Chapter 5:
 
 **Chapter Reviews**  
-[Chapter 1](https://quizlet.com/821753983/abeka-5-science-1-chapter-review-flash-cards/?funnelUUID=c384d0a6-b1de-4de4-882a-29113cb03a2b),
+[Chapter 1](https://quizlet.com/821753983/abeka-5-science-chapter-1-review-flash-cards/?funnelUUID=28908a3e-9aac-443f-bb76-420e56d43560), 
+[Chapter 3](https://quizlet.com/837020416/abeka-5-science-chapter-3-checkup-flash-cards/?funnelUUID=0215fb09-bed6-4d3f-b4ea-ef63d8ec27d8), 
 [Chapter 4](https://quizlet.com/843131994/abeka-5-science-chapter-4-review-flash-cards/?funnelUUID=b1e8d363-65e7-48bf-8303-012735a5ba71), 
 
 
