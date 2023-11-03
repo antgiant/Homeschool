@@ -199,6 +199,10 @@ Maps 17-18 Africa
 [countries](https://www.geoguessr.com/quiz/seterra/challenge/L8YAQT), 
 [cities](https://www.geoguessr.com/quiz/seterra/challenge/2UE7GZ), 
 [landforms](https://www.geoguessr.com/quiz/seterra/challenge/UF2U5G)  
+Maps 19-20 Western Europe
+[Countries](https://www.geoguessr.com/quiz/seterra/challenge/YZ52T4), 
+[Cities](https://www.geoguessr.com/quiz/seterra/challenge/U2ZN4H), 
+[Landforms](https://www.geoguessr.com/quiz/seterra/challenge/3VEMML)  
 
 **Continent Studys**  
 Continent Study 1 - Asian Landforms & Bodies of Water
