@@ -262,9 +262,20 @@ Chapter 2:
 [2.1-2.2](https://quizlet.com/821696545/abeka-5-science-21-22-comprehension-checks-the-amazing-animals-flash-cards/?funnelUUID=dfd00aac-42a3-4826-a16a-7ee0a0cd8f6e), 
 [2.3](https://quizlet.com/821700493/abeka-5-science-23-comprehension-checks-the-amazing-animals-flash-cards/?funnelUUID=40596789-5449-42b4-acb5-c9724e91bed0), 
 [2.4-2.6](https://quizlet.com/821692632/abeka-5-science-24-26-comprehension-checks-the-amazing-animals-flash-cards/?funnelUUID=f14d97cb-ef33-4109-af7f-6edfcd15bcba)  
+Chapter 3:
+
+Chapter 4:
+[4.3](https://quizlet.com/844530633/abeka-5-science-chapter-4-comprehension-check-43-flash-cards/?funnelUUID=0c588ced-b5ca-48cf-8aec-8b62c351d674), 
+[4.4](https://quizlet.com/844895927/abeka-5-science-chapter-4-comprehension-checks-4-5-flash-cards/?funnelUUID=fa86e884-4ac2-4677-9e67-cb23e3249b74), 
+[4.5](https://quizlet.com/845983272/abeka-5-science-chapter-4-comprehension-check-5-flash-cards/?funnelUUID=04c8b24b-dec0-40ae-8890-77d1e2163762), 
+[4.6](https://quizlet.com/846271867/abeka-5-science-chapter-4-comprehension-check-6-flash-cards/?funnelUUID=6c32bb83-b2cb-469e-9813-b217faef8e00), 
+[4.7](https://quizlet.com/846693141/abeka-5-science-chapter-4-comprehension-check-7-flash-cards/?funnelUUID=7400fa45-ec2a-4f52-a6e4-8daa613c0447)  
+Chapter 5:
 
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821753983/abeka-5-science-1-chapter-review-flash-cards/?funnelUUID=c384d0a6-b1de-4de4-882a-29113cb03a2b),
+[Chapter 4](https://quizlet.com/843131994/abeka-5-science-chapter-4-review-flash-cards/?funnelUUID=b1e8d363-65e7-48bf-8303-012735a5ba71), 
+
 
 **Teaching Charts**  
 [Charts 1-2 Parts of an Insect](https://quizlet.com/821759607/abeka-4-6-science-teaching-chart-1-body-parts-of-an-insect-diagram/?funnelUUID=e4e1c048-2513-4a45-ace4-4446b0c77fea)  
