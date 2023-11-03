@@ -184,15 +184,21 @@
 
 ### History & Geography
 **Seterra Maps**  
-Map 1-2 Eastern Hemisphere [(Europe)](https://www.geoguessr.com/quiz/seterra/challenge/KLWPBG), 
+Maps 1-2 Eastern Hemisphere [(Europe)](https://www.geoguessr.com/quiz/seterra/challenge/KLWPBG), 
 [(Africa)](https://www.geoguessr.com/quiz/seterra/challenge/QETW78), 
 [(Asia)](https://www.geoguessr.com/quiz/seterra/challenge/UXT25F), 
 [(Oceana)](https://www.geoguessr.com/quiz/seterra/challenge/MA88NB)  
-Map 3-4 [World Physial](https://www.geoguessr.com/quiz/seterra/challenge/GK5RJX)  
-Map 13-14 Asia
+Maps 3-4 [World Physial](https://www.geoguessr.com/quiz/seterra/challenge/GK5RJX)  
+Maps 13-14 Asia
 [countries](https://www.geoguessr.com/quiz/seterra/challenge/CBLCSP), 
 [capitals](https://www.geoguessr.com/quiz/seterra/challenge/SNK7U9), 
 [landforms](https://www.geoguessr.com/quiz/seterra/challenge/AJ8H8L)  
+Maps 15-16 Ancient Egypt
+[Features](https://www.geoguessr.com/quiz/seterra/challenge/B69AKC)  
+Maps 17-18 Africa
+[countries](https://www.geoguessr.com/quiz/seterra/challenge/L8YAQT), 
+[cities](https://www.geoguessr.com/quiz/seterra/challenge/2UE7GZ), 
+[landforms](https://www.geoguessr.com/quiz/seterra/challenge/UF2U5G)  
 
 **Continent Studys**  
 Continent Study 1 - Asian Landforms & Bodies of Water
