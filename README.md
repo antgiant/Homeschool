@@ -507,3 +507,9 @@ Geography Project 13: Nations of the World
 **Textbook Review**  
 [Chapter 1, 2, & 3 Reivews](https://quizlet.com/820416646/abeka-7-history-chapter-1-2-and-3-beginning-of-world-history-the-ancient-middle-east-from-sumer-to-cannan-down-to-egypt-flash-cards/?funnelUUID=261cbfe0-4b69-4301-a0b8-f641fdd384ec)  
 
+### Science
+**Textbook Review**  
+[Chapter 1](https://quizlet.com/821331738/abeka-7-science-chapter-1-invitation-to-science-flash-cards/?funnelUUID=f68dfdb8-8315-4d18-b840-2fb5ffe0d553), 
+[Chapter 2](https://quizlet.com/823378545/abeka-7-science-chapter-2-plants-provision-for-life-flash-cards/?funnelUUID=9d7b66e6-07c4-4fbf-bcc5-152e88bab1af), 
+[Chapter 3](https://quizlet.com/837362869/abeka-7-science-chapter-3-flash-cards/?funnelUUID=9f6ac4d5-ef8f-45a6-bc04-3c073cbc2ad8)  
+
