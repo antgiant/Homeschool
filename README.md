@@ -209,8 +209,11 @@ Maps 25-26 [Landforms](https://quizlet.com/845707022/abeka-5-history-maps-25-26-
 **Continent Studys**  
 Continent Study 1 - Asian Landforms & Bodies of Water
 [map](https://www.geoguessr.com/quiz/seterra/challenge/LSG97),
-[map & facts](https://quizlet.com/818567019/abeka-5-history-continent-study-1-asia-diagram/?funnelUUID=a7a4463e-8d2b-4930-aac3-36cf2a86563b)
+[map & facts](https://quizlet.com/818567019/abeka-5-history-continent-study-1-asia-diagram/?funnelUUID=a7a4463e-8d2b-4930-aac3-36cf2a86563b)  
 Continent Study 2 - Africa
+[countries](https://www.geoguessr.com/quiz/seterra/challenge/L8YAQT), 
+[cities](https://www.geoguessr.com/quiz/seterra/challenge/2UE7GZ), 
+[landforms](https://www.geoguessr.com/quiz/seterra/challenge/UF2U5G), 
 [map & facts](https://quizlet.com/818567248/abeka-5-history-continent-study-2-africa-map-17-18-diagram/?funnelUUID=48bdbd3b-0df5-49f5-8fc1-30a8770e6ce2)  
 
 **Geogrpahy Facts**  
