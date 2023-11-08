@@ -195,8 +195,7 @@ Maps 13-14 Asia
 [countries](https://www.geoguessr.com/quiz/seterra/challenge/CBLCSP), 
 [cities](https://www.geoguessr.com/quiz/seterra/challenge/SNK7U9), 
 [landforms](https://www.geoguessr.com/quiz/seterra/challenge/AJ8H8L)  
-Maps 15-16 Ancient Egypt
-[features](https://www.geoguessr.com/quiz/seterra/challenge/B69AKC)  
+Maps 15-16 [Ancient Egypt](https://www.geoguessr.com/quiz/seterra/challenge/B69AKC)  
 Maps 17-18 Africa
 [countries](https://www.geoguessr.com/quiz/seterra/challenge/L8YAQT), 
 [cities](https://www.geoguessr.com/quiz/seterra/challenge/2UE7GZ), 
@@ -211,6 +210,8 @@ Maps 25-26 [Landforms](https://quizlet.com/845707022/abeka-5-history-maps-25-26-
 Continent Study 1 - Asian Landforms & Bodies of Water
 [map](https://www.geoguessr.com/quiz/seterra/challenge/LSG97),
 [map & facts](https://quizlet.com/818567019/abeka-5-history-continent-study-1-asia-diagram/?funnelUUID=a7a4463e-8d2b-4930-aac3-36cf2a86563b)
+Continent Study 2 - Africa
+[map & facts](https://quizlet.com/818567248/abeka-5-history-continent-study-2-africa-map-17-18-diagram/?funnelUUID=48bdbd3b-0df5-49f5-8fc1-30a8770e6ce2)  
 
 **Geogrpahy Facts**  
 Geography Facts 1 - The Circle of the Earth [facts](https://quizlet.com/818565326/abeka-5-history-geography-facts-1-the-circle-of-the-earth-flash-cards/?funnelUUID=43b6b593-dd3a-4920-99e5-6849d0c9cff7)  
