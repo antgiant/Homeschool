@@ -1,10 +1,10 @@
 # Wooley Homeschool
 [**K5**](https://homeschool.wooleys.us/#kindergarten),
-[**4th**](4th-grade),
-[**5th**](#5th-grade),
-[**6th**](#6th-grade),
-[**7th**](#7th-grade)  
-new
+[**4th**](/4th-grade),
+[**5th**](https://homeschool.wooleys.us/#5th-grade),
+[**6th**](https://homeschool.wooleys.us/#6th-grade),
+[**7th**](https://homeschool.wooleys.us/#7th-grade)  
+/#
 ## Kindergarten
 ### History & Geography
 **Seterra Map Self Quizzes**  
