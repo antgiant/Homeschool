@@ -1,9 +1,9 @@
 # Wooley Homeschool
-[**K5**](https://github.com/antgiant/Homeschool/edit/main/README.md#kindergarten),
-[**4th**](https://github.com/antgiant/Homeschool/edit/main/README.md#4th-grade),
-[**5th**](https://github.com/antgiant/Homeschool/edit/main/README.md#5th-grade),
-[**6th**](https://github.com/antgiant/Homeschool/edit/main/README.md#6th-grade),
-[**7th**](https://github.com/antgiant/Homeschool/edit/main/README.md#7th-grade)  
+[**K5**](https://homeschool.wooleys.us/#kindergarten),
+[**4th**](4th-grade),
+[**5th**](#5th-grade),
+[**6th**](#6th-grade),
+[**7th**](#7th-grade)  
 
 ## Kindergarten
 ### History & Geography
