@@ -251,7 +251,8 @@ Geography Facts 9 - Mountains and Mountain Ranges
 [Chapter 3](https://quizlet.com/823993571/abeka-5-history-chapter-3-comprehension-checks-a-f-flash-cards/?funnelUUID=c0042335-483e-42df-8d45-c6c79200e42d), 
 [Chapter 4](https://quizlet.com/841544409/abeka-5-history-chapter-4-comprehension-checks-flash-cards/?funnelUUID=2c4fff1b-3dc3-4cde-bcf4-70e2c006ca12),
 [Chapter 5](https://quizlet.com/847635948/abeka-5-history-chapter-5-comprehension-check-1-6-flash-cards/?funnelUUID=a6d3380a-c2ca-415f-8f79-590f715f1925), 
-[Chapter 6 (except 4)](https://quizlet.com/847639111/abeka-5-history-chapter-6-comprehension-check-1-2-3-5-flash-cards/?funnelUUID=38400bb5-7d81-470b-bc81-4eb8b59df6a7)  
+[Chapter 6 (except 4)](https://quizlet.com/847639111/abeka-5-history-chapter-6-comprehension-check-1-2-3-5-flash-cards/?funnelUUID=38400bb5-7d81-470b-bc81-4eb8b59df6a7)
+[Chapter 7](https://quizlet.com/850492818/abeka-5-history-chapter-7-comprehension-checks-flash-cards/?funnelUUID=422faac3-c178-4eee-b700-129dabf5d174)  
 
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=4db2a61d-f261-4b9b-8d01-2d692582675a),
@@ -259,7 +260,8 @@ Geography Facts 9 - Mountains and Mountain Ranges
 [Chapter 3](https://quizlet.com/847634101/abeka-5-history-chapter-3-chapter-checkup-b-e-flash-cards/?funnelUUID=5c52e5d7-c026-4b18-bce8-a854a781c4a8),
 [Chapter 4](https://quizlet.com/832422757/abeka-5-history-chapter-4-checkup-flash-cards/?funnelUUID=a1117370-8a11-45cd-986c-8076cf589dc3), 
 [Chapter 5](https://quizlet.com/837391912/abeka-5-history-chapter-5-checkup-flash-cards/?funnelUUID=8dfb54eb-7184-434d-bc00-68af72dc0032), 
-[Chapter 6](https://quizlet.com/844191419/abeka-5-history-chapter-6-checkup-flash-cards/?funnelUUID=0fb03c53-05e2-4ea1-adf9-b921917bb558)  
+[Chapter 6](https://quizlet.com/844191419/abeka-5-history-chapter-6-checkup-flash-cards/?funnelUUID=0fb03c53-05e2-4ea1-adf9-b921917bb558),
+[Chapter 7](https://quizlet.com/849079100/abeka-5-history-chapter-7-checkup-flash-cards/?funnelUUID=fe4de132-425c-4842-bffe-f9784d97e493)  
 
 ### Language
 [Sentence Types](https://quizlet.com/725409094/abeka-language-sentence-types-flash-cards/?funnelUUID=f5d6ebf4-282d-42a8-b070-797344959538)  
