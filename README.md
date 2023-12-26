@@ -253,6 +253,7 @@ Geography Facts 9 - Mountains and Mountain Ranges
 [Chapter 5](https://quizlet.com/847635948/abeka-5-history-chapter-5-comprehension-check-1-6-flash-cards/?funnelUUID=a6d3380a-c2ca-415f-8f79-590f715f1925), 
 [Chapter 6 (except 4)](https://quizlet.com/847639111/abeka-5-history-chapter-6-comprehension-check-1-2-3-5-flash-cards/?funnelUUID=38400bb5-7d81-470b-bc81-4eb8b59df6a7)
 [Chapter 7](https://quizlet.com/850492818/abeka-5-history-chapter-7-comprehension-checks-flash-cards/?funnelUUID=422faac3-c178-4eee-b700-129dabf5d174)  
+[Chapter 8](https://quizlet.com/853139239/abeka-5-history-chapter-8-comprehension-checks-flash-cards/?funnelUUID=d8aa2989-bfc4-44d9-917d-eeee7e025ef0)  
 
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=4db2a61d-f261-4b9b-8d01-2d692582675a),
@@ -261,7 +262,9 @@ Geography Facts 9 - Mountains and Mountain Ranges
 [Chapter 4](https://quizlet.com/832422757/abeka-5-history-chapter-4-checkup-flash-cards/?funnelUUID=a1117370-8a11-45cd-986c-8076cf589dc3), 
 [Chapter 5](https://quizlet.com/837391912/abeka-5-history-chapter-5-checkup-flash-cards/?funnelUUID=8dfb54eb-7184-434d-bc00-68af72dc0032), 
 [Chapter 6](https://quizlet.com/844191419/abeka-5-history-chapter-6-checkup-flash-cards/?funnelUUID=0fb03c53-05e2-4ea1-adf9-b921917bb558),
-[Chapter 7](https://quizlet.com/849079100/abeka-5-history-chapter-7-checkup-flash-cards/?funnelUUID=fe4de132-425c-4842-bffe-f9784d97e493)  
+[Chapter 7](https://quizlet.com/849079100/abeka-5-history-chapter-7-checkup-flash-cards/?funnelUUID=fe4de132-425c-4842-bffe-f9784d97e493), 
+[Chapter 8](https://quizlet.com/856681722/abeka-5-history-chapter-8-chapter-check-up-flash-cards/?funnelUUID=677b50b2-1d06-47d8-88b0-862a0476c7d8), 
+[Chapter 9](https://quizlet.com/860921483/abeka-5-history-chapter-9-checkup-flash-cards/?funnelUUID=62bfff46-493a-416d-b24d-3cdbf1f45f02)  
 
 ### Language
 [Sentence Types](https://quizlet.com/725409094/abeka-language-sentence-types-flash-cards/?funnelUUID=f5d6ebf4-282d-42a8-b070-797344959538)  
@@ -296,11 +299,30 @@ Chapter 4:
 [4.6](https://quizlet.com/846271867/abeka-5-science-chapter-4-comprehension-check-6-flash-cards/?funnelUUID=6c32bb83-b2cb-469e-9813-b217faef8e00), 
 [4.7](https://quizlet.com/846693141/abeka-5-science-chapter-4-comprehension-check-7-flash-cards/?funnelUUID=7400fa45-ec2a-4f52-a6e4-8daa613c0447)  
 Chapter 5:
+[5.1](https://quizlet.com/849786996/abeka-5-science-chapter-5-comprehension-check-1-flash-cards/?funnelUUID=16888ea4-6421-4b21-a3aa-f46c6e500afc), 
+[5.2](https://quizlet.com/850506564/abeka-5-science-chapter-5-comprehension-check-2-flash-cards/?funnelUUID=ea94b62c-6e1c-48e8-b3cf-822100b370fe), 
+[5.3](https://quizlet.com/851478069/abeka-5-science-chapter-5-comprehension-check-3-flash-cards/?funnelUUID=17765374-6ec9-41e6-8da5-c56858db1c9b), 
+5.4, 
+[5.5](https://quizlet.com/852542860/abeka-5-science-chapter-5-comprehension-check-5-flash-cards/?funnelUUID=5d859b2e-e145-474d-abe3-5dfcf956b9e5), 
+[5.6](https://quizlet.com/853021680/abeka-5-science-chapter-5-comprehension-check-6-flash-cards/?funnelUUID=6db74315-cc44-4400-99da-59c26b45dee2), 
+[5.7](https://quizlet.com/856367423/abeka-5-science-chapter-5-comprehension-check-7-flash-cards/?funnelUUID=64d5d9bf-1185-4722-8633-90e097f2b1a4), 
+[5.8](https://quizlet.com/856712245/abeka-5-science-chapter-5-comprehension-check-8-flash-cards/?funnelUUID=debee350-c7c1-4e8a-8c17-9d36e610a09f)  
+Chapter 6:
+6.1, 
+6.2, 
+6.3, 
+[6.4](https://quizlet.com/864303466/abeka-5-science-chapter-6-comprehension-check-4-flash-cards/?funnelUUID=63efc983-de51-4d1f-9ca8-5479c874cc1a), 
+6.5, 
+[6.6](https://quizlet.com/865798903/abeka-5-science-chapter-6-comprehension-check-6-flash-cards/?funnelUUID=13bdc2fd-0797-4015-8813-4212510d8a1f)  
+Chapter 7
+
 
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821753983/abeka-5-science-chapter-1-review-flash-cards/?funnelUUID=28908a3e-9aac-443f-bb76-420e56d43560), 
 [Chapter 3](https://quizlet.com/837020416/abeka-5-science-chapter-3-checkup-flash-cards/?funnelUUID=0215fb09-bed6-4d3f-b4ea-ef63d8ec27d8), 
 [Chapter 4](https://quizlet.com/843131994/abeka-5-science-chapter-4-review-flash-cards/?funnelUUID=b1e8d363-65e7-48bf-8303-012735a5ba71), 
+[Chapter 5](https://quizlet.com/850514323/abeka-5-science-chapter-5-check-up-flash-cards/?funnelUUID=22cca945-1534-407e-b80b-481ac32d582f), 
+[Chapter 6](https://quizlet.com/866535924/abeka-5-science-chapter-6-checkup-flash-cards/?funnelUUID=bfbfeafe-4a39-457e-b19d-8dd57cd13f74)  
 
 
 **Teaching Charts**  
