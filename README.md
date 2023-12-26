@@ -251,8 +251,8 @@ Geography Facts 9 - Mountains and Mountain Ranges
 [Chapter 3](https://quizlet.com/823993571/abeka-5-history-chapter-3-comprehension-checks-a-f-flash-cards/?funnelUUID=c0042335-483e-42df-8d45-c6c79200e42d), 
 [Chapter 4](https://quizlet.com/841544409/abeka-5-history-chapter-4-comprehension-checks-flash-cards/?funnelUUID=2c4fff1b-3dc3-4cde-bcf4-70e2c006ca12),
 [Chapter 5](https://quizlet.com/847635948/abeka-5-history-chapter-5-comprehension-check-1-6-flash-cards/?funnelUUID=a6d3380a-c2ca-415f-8f79-590f715f1925), 
-[Chapter 6 (except 4)](https://quizlet.com/847639111/abeka-5-history-chapter-6-comprehension-check-1-2-3-5-flash-cards/?funnelUUID=38400bb5-7d81-470b-bc81-4eb8b59df6a7)
-[Chapter 7](https://quizlet.com/850492818/abeka-5-history-chapter-7-comprehension-checks-flash-cards/?funnelUUID=422faac3-c178-4eee-b700-129dabf5d174)  
+[Chapter 6 (except 4)](https://quizlet.com/847639111/abeka-5-history-chapter-6-comprehension-check-1-2-3-5-flash-cards/?funnelUUID=38400bb5-7d81-470b-bc81-4eb8b59df6a7), 
+[Chapter 7](https://quizlet.com/850492818/abeka-5-history-chapter-7-comprehension-checks-flash-cards/?funnelUUID=422faac3-c178-4eee-b700-129dabf5d174), 
 [Chapter 8](https://quizlet.com/853139239/abeka-5-history-chapter-8-comprehension-checks-flash-cards/?funnelUUID=d8aa2989-bfc4-44d9-917d-eeee7e025ef0)  
 
 **Chapter Reviews**  
@@ -308,9 +308,9 @@ Chapter 5:
 [5.7](https://quizlet.com/856367423/abeka-5-science-chapter-5-comprehension-check-7-flash-cards/?funnelUUID=64d5d9bf-1185-4722-8633-90e097f2b1a4), 
 [5.8](https://quizlet.com/856712245/abeka-5-science-chapter-5-comprehension-check-8-flash-cards/?funnelUUID=debee350-c7c1-4e8a-8c17-9d36e610a09f)  
 Chapter 6:
-6.1, 
-6.2, 
-6.3, 
+[6.1](https://quizlet.com/866783100/abeka-5-science-chapter-6-comprehension-check-1-flash-cards/?funnelUUID=bface1e2-cb9f-447f-a929-103464348d6f), 
+[6.2](https://quizlet.com/866783561/abeka-5-science-chapter-6-comprehension-check-2-flash-cards/?funnelUUID=b451db01-5d14-4793-ae2f-2fc234969c99), 
+[6.3](https://quizlet.com/866783839/abeka-5-science-chapter-6-comprehension-check-3-flash-cards/?funnelUUID=e360f517-01e6-4733-9cc5-ca2d932dc762), 
 [6.4](https://quizlet.com/864303466/abeka-5-science-chapter-6-comprehension-check-4-flash-cards/?funnelUUID=63efc983-de51-4d1f-9ca8-5479c874cc1a), 
 6.5, 
 [6.6](https://quizlet.com/865798903/abeka-5-science-chapter-6-comprehension-check-6-flash-cards/?funnelUUID=13bdc2fd-0797-4015-8813-4212510d8a1f)  
