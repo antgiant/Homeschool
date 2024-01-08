@@ -313,7 +313,8 @@ Chapter 6:
 [6.3](https://quizlet.com/866783839/abeka-5-science-chapter-6-comprehension-check-3-flash-cards/?funnelUUID=e360f517-01e6-4733-9cc5-ca2d932dc762), 
 [6.4](https://quizlet.com/864303466/abeka-5-science-chapter-6-comprehension-check-4-flash-cards/?funnelUUID=63efc983-de51-4d1f-9ca8-5479c874cc1a), 
 6.5, 
-[6.6](https://quizlet.com/865798903/abeka-5-science-chapter-6-comprehension-check-6-flash-cards/?funnelUUID=13bdc2fd-0797-4015-8813-4212510d8a1f)  
+[6.6](https://quizlet.com/865798903/abeka-5-science-chapter-6-comprehension-check-6-flash-cards/?funnelUUID=13bdc2fd-0797-4015-8813-4212510d8a1f), 
+[6.7 Diagram](https://quizlet.com/868997555/abeka-5-science-67-4-stroke-cycle-of-a-gasoline-engine-diagram/?funnelUUID=83e83534-b2e3-48f8-860e-d559ab701b89)  
 Chapter 7
 
 
