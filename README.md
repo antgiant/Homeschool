@@ -209,6 +209,9 @@ Maps 19-20 Western Europe
 [countries](https://www.geoguessr.com/quiz/seterra/challenge/YZ52T4), 
 [cities](https://www.geoguessr.com/quiz/seterra/challenge/U2ZN4H), 
 [landforms](https://www.geoguessr.com/quiz/seterra/challenge/3VEMML)  
+Maps 21-22 Eastern Europe 
+[countries and capitals](https://www.geoguessr.com/quiz/seterra/challenge/57M6N6), 
+[landforms](https://www.geoguessr.com/quiz/seterra/challenge/XFTF95)  
 Maps 25-26 [Landforms](https://quizlet.com/845707022/abeka-5-history-maps-25-26-landforms-bodies-of-water-diagram/?funnelUUID=30bf68ee-a2f0-4fa6-83df-d3e4cf8ca697)  
 
 **Continent Studys**  
