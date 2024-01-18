@@ -196,6 +196,11 @@ Maps 1-2 Eastern Hemisphere
 [Oceana](https://www.geoguessr.com/quiz/seterra/challenge/MA88NB)  
 Maps 3-4
 [World Physial](https://www.geoguessr.com/quiz/seterra/challenge/GK5RJX)  
+Maps 11-12 Kingdoms and Empires 
+[Africa](https://www.geoguessr.com/quiz/seterra/challenge/NZT7M6), 
+[Asia](https://www.geoguessr.com/quiz/seterra/challenge/5GUUNE), 
+[Europe](https://www.geoguessr.com/quiz/seterra/challenge/8FK48P), 
+[Middle East](https://www.geoguessr.com/quiz/seterra/challenge/L2XT7Q)  
 Maps 13-14 Asia
 [countries](https://www.geoguessr.com/quiz/seterra/challenge/CBLCSP), 
 [cities](https://www.geoguessr.com/quiz/seterra/challenge/SNK7U9), 
