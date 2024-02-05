@@ -228,6 +228,11 @@ Continent Study 2 - Africa
 [cities](https://www.geoguessr.com/quiz/seterra/challenge/2UE7GZ), 
 [landforms](https://www.geoguessr.com/quiz/seterra/challenge/UF2U5G), 
 [map & facts](https://quizlet.com/818567248/abeka-5-history-continent-study-2-africa-map-17-18-diagram/?funnelUUID=48bdbd3b-0df5-49f5-8fc1-30a8770e6ce2)  
+Continent Study 3 - Europe 
+[countries](https://www.geoguessr.com/quiz/seterra/challenge/F9UEA5), 
+[capitals](https://www.geoguessr.com/quiz/seterra/challenge/3YK8G7), 
+[landforms](https://www.geoguessr.com/quiz/seterra/challenge/JVUALD), 
+[map & facts](https://quizlet.com/818567686/abeka-5-history-continent-study-3-europe-map-19-20-diagram/?funnelUUID=da1ec028-38ea-49f1-b696-07b9ea1b7c55)  
 
 **Geogrpahy Facts**  
 Geography Facts 1 - The Circle of the Earth [facts](https://quizlet.com/818565326/abeka-5-history-geography-facts-1-the-circle-of-the-earth-flash-cards/?funnelUUID=43b6b593-dd3a-4920-99e5-6849d0c9cff7)  
