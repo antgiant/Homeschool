@@ -233,6 +233,8 @@ Continent Study 3 - Europe
 [capitals](https://www.geoguessr.com/quiz/seterra/challenge/3YK8G7), 
 [landforms](https://www.geoguessr.com/quiz/seterra/challenge/JVUALD), 
 [map & facts](https://quizlet.com/818567686/abeka-5-history-continent-study-3-europe-map-19-20-diagram/?funnelUUID=da1ec028-38ea-49f1-b696-07b9ea1b7c55)  
+Continent Study 3 - Australia, Oceania, & Antarctica 
+[map & facts Quizlet](https://quizlet.com/818567983/abeka-5-history-continent-study-4-australia-oceania-antarctica-diagram/?funnelUUID=0884f092-20d4-46b2-8839-82c355a2989e)  
 
 **Geogrpahy Facts**  
 Geography Facts 1 - The Circle of the Earth [facts](https://quizlet.com/818565326/abeka-5-history-geography-facts-1-the-circle-of-the-earth-flash-cards/?funnelUUID=43b6b593-dd3a-4920-99e5-6849d0c9cff7)  
