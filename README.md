@@ -218,6 +218,9 @@ Maps 21-22 Eastern Europe
 [countries and capitals](https://www.geoguessr.com/quiz/seterra/challenge/57M6N6), 
 [landforms](https://www.geoguessr.com/quiz/seterra/challenge/XFTF95)  
 Maps 25-26 [Landforms](https://quizlet.com/845707022/abeka-5-history-maps-25-26-landforms-bodies-of-water-diagram/?funnelUUID=30bf68ee-a2f0-4fa6-83df-d3e4cf8ca697)  
+Maps 27-28 States & Capitals 
+[States](https://www.geoguessr.com/vgp/3285), 
+[Capitals](https://www.geoguessr.com/vgp/3063)  
 
 **Continent Studys**  
 Continent Study 1 - Asian Landforms & Bodies of Water
@@ -233,7 +236,7 @@ Continent Study 3 - Europe
 [capitals](https://www.geoguessr.com/quiz/seterra/challenge/3YK8G7), 
 [landforms](https://www.geoguessr.com/quiz/seterra/challenge/JVUALD), 
 [map & facts](https://quizlet.com/818567686/abeka-5-history-continent-study-3-europe-map-19-20-diagram/?funnelUUID=da1ec028-38ea-49f1-b696-07b9ea1b7c55)  
-Continent Study 3 - Australia, Oceania, & Antarctica 
+Continent Study 4 - Australia, Oceania, & Antarctica 
 [map & facts Quizlet](https://quizlet.com/818567983/abeka-5-history-continent-study-4-australia-oceania-antarctica-diagram/?funnelUUID=0884f092-20d4-46b2-8839-82c355a2989e)  
 
 **Geogrpahy Facts**  
@@ -271,7 +274,11 @@ Geography Facts 11 - Climate Zones
 [Chapter 5](https://quizlet.com/847635948/abeka-5-history-chapter-5-comprehension-check-1-6-flash-cards/?funnelUUID=a6d3380a-c2ca-415f-8f79-590f715f1925), 
 [Chapter 6 (except 4)](https://quizlet.com/847639111/abeka-5-history-chapter-6-comprehension-check-1-2-3-5-flash-cards/?funnelUUID=38400bb5-7d81-470b-bc81-4eb8b59df6a7), 
 [Chapter 7](https://quizlet.com/850492818/abeka-5-history-chapter-7-comprehension-checks-flash-cards/?funnelUUID=422faac3-c178-4eee-b700-129dabf5d174), 
-[Chapter 8](https://quizlet.com/853139239/abeka-5-history-chapter-8-comprehension-checks-flash-cards/?funnelUUID=d8aa2989-bfc4-44d9-917d-eeee7e025ef0)  
+[Chapter 8](https://quizlet.com/853139239/abeka-5-history-chapter-8-comprehension-checks-flash-cards/?funnelUUID=d8aa2989-bfc4-44d9-917d-eeee7e025ef0), 
+[Chapter 9](), 
+[Chapter 10](https://quizlet.com/873795663/abeka-5-history-chapter-10-comprehension-check-10a-flash-cards/?funnelUUID=f255e7ce-5abf-4a6e-a4e0-d7843c7be106), 
+[Chapter 11](https://quizlet.com/882686350/abeka-5-history-chapter-11-comprehension-checks-11a-11c-flash-cards/?funnelUUID=17798167-c4a5-491b-bdcd-f19fe509b68f), 
+[Chapter 12](https://quizlet.com/882689409/abeka-5-history-chapter-12-comprehension-check-12a-12c-flash-cards/?funnelUUID=fac760cd-6cab-4e43-acc8-615fdecc36a7)  
 
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=4db2a61d-f261-4b9b-8d01-2d692582675a),
@@ -282,7 +289,10 @@ Geography Facts 11 - Climate Zones
 [Chapter 6](https://quizlet.com/844191419/abeka-5-history-chapter-6-checkup-flash-cards/?funnelUUID=0fb03c53-05e2-4ea1-adf9-b921917bb558),
 [Chapter 7](https://quizlet.com/849079100/abeka-5-history-chapter-7-checkup-flash-cards/?funnelUUID=fe4de132-425c-4842-bffe-f9784d97e493), 
 [Chapter 8](https://quizlet.com/856681722/abeka-5-history-chapter-8-chapter-check-up-flash-cards/?funnelUUID=677b50b2-1d06-47d8-88b0-862a0476c7d8), 
-[Chapter 9](https://quizlet.com/860921483/abeka-5-history-chapter-9-checkup-flash-cards/?funnelUUID=62bfff46-493a-416d-b24d-3cdbf1f45f02)  
+[Chapter 9](https://quizlet.com/860921483/abeka-5-history-chapter-9-checkup-flash-cards/?funnelUUID=62bfff46-493a-416d-b24d-3cdbf1f45f02), 
+[Chapter 10](), 
+[Chapter 11](https://quizlet.com/879600134/abeka-5-history-chapter-11-checkup-flash-cards/?funnelUUID=0d20e63c-ffe1-4672-a044-5f6a06592428), 
+[Chapter 12](https://quizlet.com/880500973/abeka-5-history-chapter-12-checkup-flash-cards/?funnelUUID=c58d36ec-63ba-4cbe-9fa2-7120f870ec46)  
 
 ### Language
 [Sentence Types](https://quizlet.com/725409094/abeka-language-sentence-types-flash-cards/?funnelUUID=f5d6ebf4-282d-42a8-b070-797344959538)  
@@ -334,17 +344,27 @@ Chapter 6:
 [6.6](https://quizlet.com/869370835/abeka-5-science-chapter-6-comprehension-check-66-flash-cards/?funnelUUID=e0b6806d-98cb-4cf1-ad9c-d7496aea6bca), 
 [6.7](https://quizlet.com/869002333/abeka-5-science-chapter-6-comprehension-check-67-flash-cards/?funnelUUID=3595c08d-7585-4f73-89a3-245594bf820f), 
 [6.7 Diagram](https://quizlet.com/868997555/abeka-5-science-67-4-stroke-cycle-of-a-gasoline-engine-diagram/?funnelUUID=83e83534-b2e3-48f8-860e-d559ab701b89)  
-Chapter 7
+Chapter 7: 
+[7.1](https://quizlet.com/875152309/abeka-5-science-chapter-7-comprehension-check-71-flash-cards/?funnelUUID=c27f8e0d-c767-41da-a944-68c872187a50), 
+[7.2](https://quizlet.com/875152927/abeka-5-science-chapter-7-comprehension-check-72-flash-cards/?funnelUUID=e84f1f78-64a4-4cf2-9a52-a7fd2ddbe4da), 
+[7.3](), 
+[7.4](https://quizlet.com/875153425/abeka-5-science-chapter-7-comprehension-check-74-flash-cards/?funnelUUID=7b852c31-e679-4de9-a587-abae745c734e), 
+[7.5](https://quizlet.com/874693256/abeka-5-science-chapter-7-comprehension-check-75-flash-cards/?funnelUUID=933c2aaa-003e-410d-a059-f73f3056f5d4), 
+Chapter 8: 
+[8.1](https://quizlet.com/879592310/abeka-5-science-chapter-8-comprehension-check-81-flash-cards/?funnelUUID=4ba6a2c1-b595-400f-9df9-7c0069756a3c), 
+[8.2](https://quizlet.com/880511330/abeka-5-science-chapter-8-comprehension-check-82-flash-cards/?funnelUUID=1a0f8196-036c-4529-94de-18d89ea1a77d), 
+[8.3](https://quizlet.com/882244068/abeka-5-science-chapter-8-comprehension-check-83-flash-cards/?funnelUUID=0d37ef5e-9b69-4920-a66a-0548b2de66e0)  
 
 
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821753983/abeka-5-science-chapter-1-review-flash-cards/?funnelUUID=28908a3e-9aac-443f-bb76-420e56d43560), 
-[Chapter 2]
+[Chapter 2](), 
 [Chapter 3](https://quizlet.com/837020416/abeka-5-science-chapter-3-checkup-flash-cards/?funnelUUID=0215fb09-bed6-4d3f-b4ea-ef63d8ec27d8), 
 [Chapter 4](https://quizlet.com/843131994/abeka-5-science-chapter-4-review-flash-cards/?funnelUUID=b1e8d363-65e7-48bf-8303-012735a5ba71), 
 [Chapter 5](https://quizlet.com/850514323/abeka-5-science-chapter-5-check-up-flash-cards/?funnelUUID=22cca945-1534-407e-b80b-481ac32d582f), 
 [Chapter 6](https://quizlet.com/866535924/abeka-5-science-chapter-6-checkup-flash-cards/?funnelUUID=bfbfeafe-4a39-457e-b19d-8dd57cd13f74), 
-[Chapter 7](https://quizlet.com/874231465/abeka-5-science-chapter-7-checkup-flash-cards/?funnelUUID=2b6e8bcc-6133-40d2-9d93-d10e1c228613)  
+[Chapter 7](https://quizlet.com/874231465/abeka-5-science-chapter-7-checkup-flash-cards/?funnelUUID=2b6e8bcc-6133-40d2-9d93-d10e1c228613),
+[Chapter 8](https://quizlet.com/881786134/abeka-5-science-chapter-8-checkup-flash-cards/?funnelUUID=e54a6e44-a613-44ad-8a74-4f73a394b6ad)  
 
 
 **Teaching Charts**  
