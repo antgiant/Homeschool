@@ -349,7 +349,7 @@ Chapter 7:
 [7.2](https://quizlet.com/875152927/abeka-5-science-chapter-7-comprehension-check-72-flash-cards/?funnelUUID=e84f1f78-64a4-4cf2-9a52-a7fd2ddbe4da), 
 [7.3](), 
 [7.4](https://quizlet.com/875153425/abeka-5-science-chapter-7-comprehension-check-74-flash-cards/?funnelUUID=7b852c31-e679-4de9-a587-abae745c734e), 
-[7.5](https://quizlet.com/874693256/abeka-5-science-chapter-7-comprehension-check-75-flash-cards/?funnelUUID=933c2aaa-003e-410d-a059-f73f3056f5d4), 
+[7.5](https://quizlet.com/874693256/abeka-5-science-chapter-7-comprehension-check-75-flash-cards/?funnelUUID=933c2aaa-003e-410d-a059-f73f3056f5d4)  
 Chapter 8: 
 [8.1](https://quizlet.com/879592310/abeka-5-science-chapter-8-comprehension-check-81-flash-cards/?funnelUUID=4ba6a2c1-b595-400f-9df9-7c0069756a3c), 
 [8.2](https://quizlet.com/880511330/abeka-5-science-chapter-8-comprehension-check-82-flash-cards/?funnelUUID=1a0f8196-036c-4529-94de-18d89ea1a77d), 
@@ -363,7 +363,7 @@ Chapter 8:
 [Chapter 4](https://quizlet.com/843131994/abeka-5-science-chapter-4-review-flash-cards/?funnelUUID=b1e8d363-65e7-48bf-8303-012735a5ba71), 
 [Chapter 5](https://quizlet.com/850514323/abeka-5-science-chapter-5-check-up-flash-cards/?funnelUUID=22cca945-1534-407e-b80b-481ac32d582f), 
 [Chapter 6](https://quizlet.com/866535924/abeka-5-science-chapter-6-checkup-flash-cards/?funnelUUID=bfbfeafe-4a39-457e-b19d-8dd57cd13f74), 
-[Chapter 7](https://quizlet.com/874231465/abeka-5-science-chapter-7-checkup-flash-cards/?funnelUUID=2b6e8bcc-6133-40d2-9d93-d10e1c228613),
+[Chapter 7](https://quizlet.com/874231465/abeka-5-science-chapter-7-checkup-flash-cards/?funnelUUID=2b6e8bcc-6133-40d2-9d93-d10e1c228613), 
 [Chapter 8](https://quizlet.com/881786134/abeka-5-science-chapter-8-checkup-flash-cards/?funnelUUID=e54a6e44-a613-44ad-8a74-4f73a394b6ad)  
 
 
@@ -383,7 +383,8 @@ Chapter 8:
 [Charts 29-30 Constellations of the Northern Hemisphere D](https://quizlet.com/821764396/abeka-4-6-science-teaching-chart-29-30-constellations-of-the-northern-hemisphere-chart-d-diagram/?funnelUUID=eb1c7976-8c13-40bc-b3c0-bd444c09b875)  
 [Charts 31-32 Constellations of the Northern Hemisphere E](https://quizlet.com/821764562/abeka-4-6-science-teaching-chart-31-32-constellations-of-the-northern-hemisphere-chart-e-diagram/?funnelUUID=55c1ee49-3e3e-422f-b440-d8a4cfd15b7f)  
 [Charts 33-34 Constellations of the Southern Hemisphere](https://quizlet.com/821764898/abeka-4-6-science-teaching-chart-33-34-constellations-of-the-southern-hemisphere-diagram/?funnelUUID=4c7d3348-21bf-4e0d-96e9-b0d38444b949)  
-[Charts 35-36 Phases of the Moon](https://quizlet.com/821765292/abeka-4-6-science-teaching-chart-35-36-phases-of-the-moon-diagram/?funnelUUID=167f0c0a-83d2-49fe-b6b0-f35b9472c67d)
+[Charts 35-36 Phases of the Moon](https://quizlet.com/821765292/abeka-4-6-science-teaching-chart-35-36-phases-of-the-moon-diagram/?funnelUUID=167f0c0a-83d2-49fe-b6b0-f35b9472c67d)  
+[Atmosphere Layers](https://www.geoguessr.com/vgp/3830)  
 
 ### Spelling
 
