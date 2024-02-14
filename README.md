@@ -385,6 +385,7 @@ Chapter 8:
 [Charts 33-34 Constellations of the Southern Hemisphere](https://quizlet.com/821764898/abeka-4-6-science-teaching-chart-33-34-constellations-of-the-southern-hemisphere-diagram/?funnelUUID=4c7d3348-21bf-4e0d-96e9-b0d38444b949)  
 [Charts 35-36 Phases of the Moon](https://quizlet.com/821765292/abeka-4-6-science-teaching-chart-35-36-phases-of-the-moon-diagram/?funnelUUID=167f0c0a-83d2-49fe-b6b0-f35b9472c67d)  
 [Atmosphere Layers](https://www.geoguessr.com/vgp/3830)  
+[Cloud Types](https://www.geoguessr.com/vgp/3812)  
 
 ### Spelling
 
