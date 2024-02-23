@@ -356,8 +356,10 @@ Chapter 7:
 Chapter 8: 
 [8.1](https://quizlet.com/879592310/abeka-5-science-chapter-8-comprehension-check-81-flash-cards/?funnelUUID=4ba6a2c1-b595-400f-9df9-7c0069756a3c), 
 [8.2](https://quizlet.com/880511330/abeka-5-science-chapter-8-comprehension-check-82-flash-cards/?funnelUUID=1a0f8196-036c-4529-94de-18d89ea1a77d), 
-[8.3](https://quizlet.com/882244068/abeka-5-science-chapter-8-comprehension-check-83-flash-cards/?funnelUUID=0d37ef5e-9b69-4920-a66a-0548b2de66e0)  
-
+[8.3](https://quizlet.com/882244068/abeka-5-science-chapter-8-comprehension-check-83-flash-cards/?funnelUUID=0d37ef5e-9b69-4920-a66a-0548b2de66e0),
+[8.4](https://quizlet.com/886095312/abeka-5-science-chapter-8-comprehension-check-84-flash-cards/?funnelUUID=b8c62f62-a725-4830-a011-355d925a7c24),  
+[8.5](https://quizlet.com/884294737/abeka-5-science-chapter-8-comprehension-check-85-flash-cards/?funnelUUID=e5a1447a-992d-47b3-ab84-3bb835175d33),  
+[8.6](https://quizlet.com/885229342/abeka-5-science-chapter-8-comprehension-check-86-flash-cards/?funnelUUID=2f2a275d-91bc-40af-a497-44c6df53cada)  
 
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821753983/abeka-5-science-chapter-1-review-flash-cards/?funnelUUID=28908a3e-9aac-443f-bb76-420e56d43560), 
