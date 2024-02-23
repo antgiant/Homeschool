@@ -261,9 +261,11 @@ Geography Facts 9 - Mountains and Mountain Ranges
 [facts](https://quizlet.com/846377726/abeka-5-history-geography-facts-9-mountains-and-mountain-ranges-flash-cards/?funnelUUID=23f6765e-dfc6-4ee9-a9ae-10494e358979), 
 [Mountain Ranges](https://www.geoguessr.com/quiz/seterra/challenge/5SPG5V), 
 [Mountains](https://www.geoguessr.com/quiz/seterra/challenge/YYAF26)  
+Geography Facts 10 - [The World's Great Deserts](https://quizlet.com/886052264/abeka-5-history-geography-facts-10-the-worlds-great-deserts-diagram/?funnelUUID=04872376-175f-4d40-adc1-923985d45412)  
 Geography Facts 11 - Climate Zones
 [on the globe](https://quizlet.com/872488447/abeka-5-history-geography-facts-11-climate-zones-of-the-earth-diagram/?funnelUUID=e6e8b769-0eab-40ad-8fa3-414e0e5ecc10), 
-[land types](https://quizlet.com/872509251/abeka-5-history-geography-facts-11-climate-zone-fact-sheet-diagram/?funnelUUID=f747491f-ac83-4393-8e39-4855cca9f9b8)  
+[land types](https://quizlet.com/872509251/abeka-5-history-geography-facts-11-climate-zone-fact-sheet-diagram/?funnelUUID=f747491f-ac83-4393-8e39-4855cca9f9b8) 
+Geography Facts 12 - [Mountain and Torrid Zone Climates](https://quizlet.com/886061105/abeka-5-history-geography-facts-12-mountains-and-climate-the-torrid-zone-low-latitude-climates-flash-cards/?funnelUUID=2d0944d3-1bdb-4144-bbda-98a25df94619)  
 
 
 **Comprehension Checks**  
