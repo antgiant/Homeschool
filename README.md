@@ -10,7 +10,9 @@
 **Seterra Map Self Quizzes**  
 [Compass Rose N S E W](https://quizlet.com/793713073/k-compass-rose-n-s-e-w-diagram/?new)  
 [North America Quizlet](https://quizlet.com/793723458/kindergarten-north-america-canada-usa-mexico-pacific-atlantic-diagram/?new)  
-[North America Seterra](https://www.geoguessr.com/seterra/en/vgp/3015?c=RCSKA)
+[North America Seterra](https://www.geoguessr.com/seterra/en/vgp/3015?c=RCSKA)  
+[Continents & Oceans](https://www.geoguessr.com/quiz/seterra/challenge/7GLEC)  
+[Countries & Territories](https://www.geoguessr.com/quiz/seterra/challenge/SYDRR6)  
 ### Language
 [Alphabet Song](https://youtu.be/YxmNhs7RG9w)  
 [Lower-case Letters](https://quizlet.com/775919356/lower-case-letters-flash-cards/?funnelUUID=c0534a5b-e626-4e8e-a8ce-ed7b670f159d)
