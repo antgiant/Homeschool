@@ -13,6 +13,7 @@
 [North America Seterra](https://www.geoguessr.com/seterra/en/vgp/3015?c=RCSKA)  
 [Continents & Oceans](https://www.geoguessr.com/quiz/seterra/challenge/7GLEC)  
 [Countries & Territories](https://www.geoguessr.com/quiz/seterra/challenge/Z73LWK)  
+[Continents, Oceans, Countries, Territories, and Directions](https://quizlet.com/904709363/abeka-k5-continents-oceans-countries-territories-direction-diagram/)  
 ### Language
 [Alphabet Song](https://youtu.be/YxmNhs7RG9w)  
 [Lower-case Letters](https://quizlet.com/775919356/lower-case-letters-flash-cards/?funnelUUID=c0534a5b-e626-4e8e-a8ce-ed7b670f159d)
