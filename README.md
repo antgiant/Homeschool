@@ -19,6 +19,7 @@
 [Lower-case Letters](https://quizlet.com/775919356/lower-case-letters-flash-cards/?funnelUUID=c0534a5b-e626-4e8e-a8ce-ed7b670f159d)
 ### Reading
 [Sight Words Level 1](https://quizlet.com/905658229/sight-words-level-1-flash-cards/?funnelUUID=20573ffb-6c3f-4119-94bc-e607ee36c0b3)  
+[Sight Words Ongoing](https://quizlet.com/909261574/sight-words-ongoing-dustin-flash-cards/?funnelUUID=7bc034f3-6eac-4bcd-9861-175f46a8fc54)  
 ### Science  
 [Find Our Planet](https://www.geoguessr.com/seterra/en/vgp/3123?c=FWNU2)
 ### Health
