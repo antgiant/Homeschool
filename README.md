@@ -292,9 +292,9 @@ Geography Facts 13 - [Tropical Rain Forests](https://quizlet.com/886088751/abeka
 [Chapter 10](https://quizlet.com/873795663/abeka-5-history-chapter-10-comprehension-check-10a-flash-cards/?funnelUUID=f255e7ce-5abf-4a6e-a4e0-d7843c7be106), 
 [Chapter 11](https://quizlet.com/882686350/abeka-5-history-chapter-11-comprehension-checks-11a-11c-flash-cards/?funnelUUID=17798167-c4a5-491b-bdcd-f19fe509b68f), 
 [Chapter 12](https://quizlet.com/882689409/abeka-5-history-chapter-12-comprehension-check-12a-12c-flash-cards/?funnelUUID=fac760cd-6cab-4e43-acc8-615fdecc36a7), 
-[Chapter 13](), 
+[Chapter 13](https://quizlet.com/892923273/abeka-5-history-chapter-13-comprehension-check-13a-13e-flash-cards/?funnelUUID=62e94534-d727-40f0-8825-96270725cd78), 
 [Chapter 14](), 
-[Chapter 15]()  
+[Chapter 15](https://quizlet.com/911589299/abeka-5-history-chapter-15-comprehension-check-15-a-f-flash-cards/?funnelUUID=9721011a-b57b-43cd-af06-107654173521)  
 
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=4db2a61d-f261-4b9b-8d01-2d692582675a),
