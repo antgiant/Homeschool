@@ -225,6 +225,8 @@ Maps 19-20 Western Europe
 Maps 21-22 Eastern Europe 
 [countries and capitals](https://www.geoguessr.com/quiz/seterra/challenge/57M6N6), 
 [landforms](https://www.geoguessr.com/quiz/seterra/challenge/XFTF95)  
+Maps 23-24 Australia, Oceania, & Antarctica 
+[Quizlet](https://quizlet.com/879167434/abeka-5-history-maps-23-24-australia-oceania-antarctica-diagram/?funnelUUID=0006faf1-a959-4053-8de7-d75bd70f7600)  
 Maps 25-26 [Landforms](https://quizlet.com/845707022/abeka-5-history-maps-25-26-landforms-bodies-of-water-diagram/?funnelUUID=30bf68ee-a2f0-4fa6-83df-d3e4cf8ca697)  
 Maps 27-28 States & Capitals 
 [States](https://www.geoguessr.com/vgp/3285), 
@@ -289,7 +291,10 @@ Geography Facts 13 - [Tropical Rain Forests](https://quizlet.com/886088751/abeka
 [Chapter 9](), 
 [Chapter 10](https://quizlet.com/873795663/abeka-5-history-chapter-10-comprehension-check-10a-flash-cards/?funnelUUID=f255e7ce-5abf-4a6e-a4e0-d7843c7be106), 
 [Chapter 11](https://quizlet.com/882686350/abeka-5-history-chapter-11-comprehension-checks-11a-11c-flash-cards/?funnelUUID=17798167-c4a5-491b-bdcd-f19fe509b68f), 
-[Chapter 12](https://quizlet.com/882689409/abeka-5-history-chapter-12-comprehension-check-12a-12c-flash-cards/?funnelUUID=fac760cd-6cab-4e43-acc8-615fdecc36a7)  
+[Chapter 12](https://quizlet.com/882689409/abeka-5-history-chapter-12-comprehension-check-12a-12c-flash-cards/?funnelUUID=fac760cd-6cab-4e43-acc8-615fdecc36a7), 
+[Chapter 13](), 
+[Chapter 14](), 
+[Chapter 15]()  
 
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=4db2a61d-f261-4b9b-8d01-2d692582675a),
@@ -303,7 +308,10 @@ Geography Facts 13 - [Tropical Rain Forests](https://quizlet.com/886088751/abeka
 [Chapter 9](https://quizlet.com/860921483/abeka-5-history-chapter-9-checkup-flash-cards/?funnelUUID=62bfff46-493a-416d-b24d-3cdbf1f45f02), 
 [Chapter 10](), 
 [Chapter 11](https://quizlet.com/879600134/abeka-5-history-chapter-11-checkup-flash-cards/?funnelUUID=0d20e63c-ffe1-4672-a044-5f6a06592428), 
-[Chapter 12](https://quizlet.com/880500973/abeka-5-history-chapter-12-checkup-flash-cards/?funnelUUID=c58d36ec-63ba-4cbe-9fa2-7120f870ec46)  
+[Chapter 12](https://quizlet.com/880500973/abeka-5-history-chapter-12-checkup-flash-cards/?funnelUUID=c58d36ec-63ba-4cbe-9fa2-7120f870ec46), 
+[Chapter 13](https://quizlet.com/888909384/abeka-5-history-chapter-13-checkup-flash-cards/?funnelUUID=70acf937-8ac1-483f-a512-7e58429820b3), 
+[Chapter 14](), 
+[Chapter 15](https://quizlet.com/912000014/abeka-5-history-chapter-15-checkup-flash-cards/?funnelUUID=f542f7ad-f077-46a9-aee7-818b26bc0a41)  
 
 ### Language
 [Sentence Types](https://quizlet.com/725409094/abeka-language-sentence-types-flash-cards/?funnelUUID=f5d6ebf4-282d-42a8-b070-797344959538)  
