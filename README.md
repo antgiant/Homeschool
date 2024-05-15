@@ -294,7 +294,8 @@ Geography Facts 13 - [Tropical Rain Forests](https://quizlet.com/886088751/abeka
 [Chapter 12](https://quizlet.com/882689409/abeka-5-history-chapter-12-comprehension-check-12a-12c-flash-cards/?funnelUUID=fac760cd-6cab-4e43-acc8-615fdecc36a7), 
 [Chapter 13](https://quizlet.com/892923273/abeka-5-history-chapter-13-comprehension-check-13a-13e-flash-cards/?funnelUUID=62e94534-d727-40f0-8825-96270725cd78), 
 [Chapter 14](), 
-[Chapter 15](https://quizlet.com/911589299/abeka-5-history-chapter-15-comprehension-check-15-a-f-flash-cards/?funnelUUID=9721011a-b57b-43cd-af06-107654173521)  
+[Chapter 15](https://quizlet.com/911589299/abeka-5-history-chapter-15-comprehension-check-15-a-f-flash-cards/?funnelUUID=9721011a-b57b-43cd-af06-107654173521), 
+[Chapter 16](https://quizlet.com/916136997/abeka-5-history-chapter-16-comprehension-check-a-d-flash-cards/?funnelUUID=cf34a361-a41c-4e00-9db4-5d99461c632d)  
 
 **Chapter Reviews**  
 [Chapter 1](https://quizlet.com/821011535/abeka-5-history-chapter-1-review-an-introduction-to-history-geography-flash-cards/?funnelUUID=4db2a61d-f261-4b9b-8d01-2d692582675a),
@@ -311,7 +312,8 @@ Geography Facts 13 - [Tropical Rain Forests](https://quizlet.com/886088751/abeka
 [Chapter 12](https://quizlet.com/880500973/abeka-5-history-chapter-12-checkup-flash-cards/?funnelUUID=c58d36ec-63ba-4cbe-9fa2-7120f870ec46), 
 [Chapter 13](https://quizlet.com/888909384/abeka-5-history-chapter-13-checkup-flash-cards/?funnelUUID=70acf937-8ac1-483f-a512-7e58429820b3), 
 [Chapter 14](), 
-[Chapter 15](https://quizlet.com/912000014/abeka-5-history-chapter-15-checkup-flash-cards/?funnelUUID=f542f7ad-f077-46a9-aee7-818b26bc0a41)  
+[Chapter 15](https://quizlet.com/912000014/abeka-5-history-chapter-15-checkup-flash-cards/?funnelUUID=f542f7ad-f077-46a9-aee7-818b26bc0a41), 
+[Chapter 16](https://quizlet.com/914180747/abeka-5-history-chapter-16-checkup-flash-cards/?funnelUUID=24c7461c-ec63-4eb2-b28e-622209e610b7)  
 
 ### Language
 [Sentence Types](https://quizlet.com/725409094/abeka-language-sentence-types-flash-cards/?funnelUUID=f5d6ebf4-282d-42a8-b070-797344959538)  
