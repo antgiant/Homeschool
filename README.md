@@ -17,19 +17,6 @@
 ### Language
 [Alphabet Song](https://youtu.be/YxmNhs7RG9w)  
 [Lower-case Letters](https://quizlet.com/775919356/lower-case-letters-flash-cards/?funnelUUID=c0534a5b-e626-4e8e-a8ce-ed7b670f159d)
-### Math
-[Shapes](https://quizlet.com/900857613/abeka-geometry-shapes-flash-cards/?funnelUUID=85b84ac9-66c9-493b-a7cb-046de38ffeef)  
-[Formulas](https://quizlet.com/902523197/abeka-5-formulas-flash-cards/?funnelUUID=96b18f15-b492-4047-b080-1dfd89abb4b6)  
-[Decimal and Fraction Equivalents](https://quizlet.com/913865192/common-fraction-and-decimal-equivalents-flash-cards/?funnelUUID=94431437-7262-4496-81e7-48aab770483a)  
-[Formulas](https://quizlet.com/902523197/abeka-5-formulas-flash-cards/?funnelUUID=96b18f15-b492-4047-b080-1dfd89abb4b6)  
-[Lines & Angles Matching](https://quizlet.com/901081713/geometry-lines-and-angles-diagram/?funnelUUID=6babf95c-a8de-42cb-9b8b-bd1d3afbf33f)  
-[Lines & Angles Definitions](https://quizlet.com/896755031/abeka-geometry-lines-flash-cards/?funnelUUID=9f984de2-0f95-4722-8d78-3f826028e47a)  
-[Triangle Matching](https://quizlet.com/901054809/geometry-triangle-matching-diagram/?funnelUUID=d02b64ed-1713-4491-9b0c-a4c7123f2367)  
-[Triangles & Angles](https://quizlet.com/900861111/abeka-geometry-angles-and-triangles-flash-cards/?funnelUUID=b63da2c4-c391-4f03-82b1-ceef0fb03c37)  
-[Metric System]  
-[English System]  
-[Fraction Rules]  
-[Decimal Rules]  
 ### Reading
 [Sight Words Level 1](https://quizlet.com/905658229/sight-words-level-1-flash-cards/?funnelUUID=20573ffb-6c3f-4119-94bc-e607ee36c0b3)  
 [Sight Words Ongoing](https://quizlet.com/909261574/sight-words-ongoing-dustin-flash-cards/?funnelUUID=7bc034f3-6eac-4bcd-9861-175f46a8fc54)  
@@ -338,6 +325,19 @@ Geography Facts 13 - [Tropical Rain Forests](https://quizlet.com/886088751/abeka
 [Subjective Personal Pronouns](https://quizlet.com/779656483/subjective-personal-pronouns-flash-cards/?funnelUUID=3845ac36-92fb-46c8-acc1-8e9a25bf3152)  
 [Quotation Marks or Underline](https://quizlet.com/725404154/language-when-to-use-quotation-marks-or-underlining-flash-cards/?funnelUUID=30771039-bff6-49f0-9289-0eb34f924329)
 
+### Math
+[Shapes](https://quizlet.com/900857613/abeka-geometry-shapes-flash-cards/?funnelUUID=85b84ac9-66c9-493b-a7cb-046de38ffeef)  
+[Formulas](https://quizlet.com/902523197/abeka-5-formulas-flash-cards/?funnelUUID=96b18f15-b492-4047-b080-1dfd89abb4b6)  
+[Decimal and Fraction Equivalents](https://quizlet.com/913865192/common-fraction-and-decimal-equivalents-flash-cards/?funnelUUID=94431437-7262-4496-81e7-48aab770483a)  
+[Formulas](https://quizlet.com/902523197/abeka-5-formulas-flash-cards/?funnelUUID=96b18f15-b492-4047-b080-1dfd89abb4b6)  
+[Lines & Angles Matching](https://quizlet.com/901081713/geometry-lines-and-angles-diagram/?funnelUUID=6babf95c-a8de-42cb-9b8b-bd1d3afbf33f)  
+[Lines & Angles Definitions](https://quizlet.com/896755031/abeka-geometry-lines-flash-cards/?funnelUUID=9f984de2-0f95-4722-8d78-3f826028e47a)  
+[Triangle Matching](https://quizlet.com/901054809/geometry-triangle-matching-diagram/?funnelUUID=d02b64ed-1713-4491-9b0c-a4c7123f2367)  
+[Triangles & Angles](https://quizlet.com/900861111/abeka-geometry-angles-and-triangles-flash-cards/?funnelUUID=b63da2c4-c391-4f03-82b1-ceef0fb03c37)  
+[Metric System]  
+[English System]  
+[Fraction Rules]  
+[Decimal Rules]  
 ### Science
 **Comprehension Checks**  
 Chapter 1: 
