@@ -328,20 +328,23 @@ Geography Facts 13 - [Tropical Rain Forests](https://quizlet.com/886088751/abeka
 ### Math
 [Place Value Flash Cards 1-10](https://quizlet.com/916201248/place-value-q-1-10-abeka-concept-cards-5-8-flash-cards/?funnelUUID=a6bf3493-9d0a-4805-bbb2-0fbd1b9a6aa2)  
 [Math Operation Terminology Flash Cards 11-14](https://quizlet.com/916204289/process-terminology-q-11-14-abeka-arithmetic-concept-cards-5-8-diagram/?funnelUUID=67a65360-3069-4333-9ebb-cfee0671b4b0)  
-[Metric & English Units Flash Cards 15-53](https://quizlet.com/916212587/conversions-q-15-53-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=1745239e-455e-47a8-886f-58013dce1b87), 
+[Flash Cards 15-53Metric & English Units](https://quizlet.com/916212587/conversions-q-15-53-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=1745239e-455e-47a8-886f-58013dce1b87), 
 [Metric & English Abbreviations](https://quizlet.com/916219812/abbreviations-of-metric-and-english-system-flash-cards/?funnelUUID=da22e53f-489d-42b2-9187-e930cfd8b08e)  
-[Roman Numerals Flash Cards 54-60](https://quizlet.com/916235146/roman-numerals-q-54-60-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=f2de073b-05ba-4ebb-bc86-7e4dcfcdffab)  
-[Fractions Flash Cards 61-89](https://quizlet.com/916246778/fractions-q-61-89-abeka-arithmetic-concept-cards-5-8-diagram/?funnelUUID=cf3a2383-d135-41ab-97f7-ace037dcb41a), 
+[Flash Cards 54-60 Roman Numerals](https://quizlet.com/916235146/roman-numerals-q-54-60-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=f2de073b-05ba-4ebb-bc86-7e4dcfcdffab)  
+[Flash Cards 61-89 Fractions](https://quizlet.com/916246778/fractions-q-61-89-abeka-arithmetic-concept-cards-5-8-diagram/?funnelUUID=cf3a2383-d135-41ab-97f7-ace037dcb41a), 
 [Decimal and Fraction Equivalents](https://quizlet.com/913865192/common-fraction-and-decimal-equivalents-flash-cards/?funnelUUID=94431437-7262-4496-81e7-48aab770483a)  
-[Equation Symbols Flash Cards 90-92](https://quizlet.com/916253684/math-symbols-q-90-92-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=98f20b5e-e18c-4c3b-b50c-a4ca74960d31)  
-[Powers of 10 with Fractions Flash Cards 93-102](https://quizlet.com/916254995/fractions-powers-of-10-q-93-102-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=4d855122-8fca-4bbb-98a0-a27119e22e75)  
-[Temperature Flash Cards 103-110](https://quizlet.com/916256209/temperature-q-103-110-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=0595318f-1c00-48b7-a595-248b89d804b4)  
-[Shapes](https://quizlet.com/900857613/abeka-geometry-shapes-flash-cards/?funnelUUID=85b84ac9-66c9-493b-a7cb-046de38ffeef)  
-[Formulas](https://quizlet.com/902523197/abeka-5-formulas-flash-cards/?funnelUUID=96b18f15-b492-4047-b080-1dfd89abb4b6)  
-[Lines & Angles Matching](https://quizlet.com/901081713/geometry-lines-and-angles-diagram/?funnelUUID=6babf95c-a8de-42cb-9b8b-bd1d3afbf33f)  
+[Flash Cards 90-92 Equation Symbols](https://quizlet.com/916253684/math-symbols-q-90-92-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=98f20b5e-e18c-4c3b-b50c-a4ca74960d31)  
+[Flash Cards 93-102 Powers of 10 with Fractions](https://quizlet.com/916254995/fractions-powers-of-10-q-93-102-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=4d855122-8fca-4bbb-98a0-a27119e22e75)  
+[Flash Cards 103-110 Temperature](https://quizlet.com/916256209/temperature-q-103-110-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=0595318f-1c00-48b7-a595-248b89d804b4)  
+[Flash Cards 111-118 Line Geometry Definitions](https://quizlet.com/916777299/line-geometry-definitions-q-111-118-abeka-arithmetic-concept-cards-5-8-diagram/?funnelUUID=4887bbe9-7f69-4ba9-8633-d5785dfe5d16), 
+[Lines & Angles Matching](https://quizlet.com/901081713/geometry-lines-and-angles-diagram/?funnelUUID=6babf95c-a8de-42cb-9b8b-bd1d3afbf33f), 
 [Lines & Angles Definitions](https://quizlet.com/896755031/abeka-geometry-lines-flash-cards/?funnelUUID=9f984de2-0f95-4722-8d78-3f826028e47a)  
-[Triangle Matching](https://quizlet.com/901054809/geometry-triangle-matching-diagram/?funnelUUID=d02b64ed-1713-4491-9b0c-a4c7123f2367)  
+[Flash Cards 119-133 Shapes](https://quizlet.com/916778294/shapes-q-119-133-abeka-arithmetic-concept-cards-5-8-diagram/?funnelUUID=41eaa1dc-0d40-425a-b1e8-ad56da82590d), 
+[Shapes](https://quizlet.com/900857613/abeka-geometry-shapes-flash-cards/?funnelUUID=85b84ac9-66c9-493b-a7cb-046de38ffeef)  
+[Flash Cards 134-141 Angles & Triangles](https://quizlet.com/916783993/angles-triangles-q-134-141-abeka-arithmetic-concept-cards-5-8-diagram/?funnelUUID=87069b6d-c93c-4d02-8f37-5fae39cc5ad4), 
+[Triangle Matching](https://quizlet.com/901054809/geometry-triangle-matching-diagram/?funnelUUID=d02b64ed-1713-4491-9b0c-a4c7123f2367), 
 [Triangles & Angles](https://quizlet.com/900861111/abeka-geometry-angles-and-triangles-flash-cards/?funnelUUID=b63da2c4-c391-4f03-82b1-ceef0fb03c37)  
+[Formulas](https://quizlet.com/902523197/abeka-5-formulas-flash-cards/?funnelUUID=96b18f15-b492-4047-b080-1dfd89abb4b6)  
 [Decimal Rules]  
 ### Science
 **Comprehension Checks**  
