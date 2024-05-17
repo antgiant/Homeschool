@@ -326,9 +326,9 @@ Geography Facts 13 - [Tropical Rain Forests](https://quizlet.com/886088751/abeka
 [Quotation Marks or Underline](https://quizlet.com/725404154/language-when-to-use-quotation-marks-or-underlining-flash-cards/?funnelUUID=30771039-bff6-49f0-9289-0eb34f924329)
 
 ### Math
-[Place Value Flash Cards 1-10](https://quizlet.com/916201248/place-value-q-1-10-abeka-concept-cards-5-8-flash-cards/?funnelUUID=a6bf3493-9d0a-4805-bbb2-0fbd1b9a6aa2)  
-[Math Operation Terminology Flash Cards 11-14](https://quizlet.com/916204289/process-terminology-q-11-14-abeka-arithmetic-concept-cards-5-8-diagram/?funnelUUID=67a65360-3069-4333-9ebb-cfee0671b4b0)  
-[Flash Cards 15-53Metric & English Units](https://quizlet.com/916212587/conversions-q-15-53-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=1745239e-455e-47a8-886f-58013dce1b87), 
+[Flash Cards 1-10 Place Value](https://quizlet.com/916201248/place-value-q-1-10-abeka-concept-cards-5-8-flash-cards/?funnelUUID=a6bf3493-9d0a-4805-bbb2-0fbd1b9a6aa2)  
+[Flash Cards 11-14 Math Operation Terminology](https://quizlet.com/916204289/process-terminology-q-11-14-abeka-arithmetic-concept-cards-5-8-diagram/?funnelUUID=67a65360-3069-4333-9ebb-cfee0671b4b0)  
+[Flash Cards 15-53 Metric & English Units](https://quizlet.com/916212587/conversions-q-15-53-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=1745239e-455e-47a8-886f-58013dce1b87), 
 [Metric & English Abbreviations](https://quizlet.com/916219812/abbreviations-of-metric-and-english-system-flash-cards/?funnelUUID=da22e53f-489d-42b2-9187-e930cfd8b08e)  
 [Flash Cards 54-60 Roman Numerals](https://quizlet.com/916235146/roman-numerals-q-54-60-abeka-arithmetic-concept-cards-5-8-flash-cards/?funnelUUID=f2de073b-05ba-4ebb-bc86-7e4dcfcdffab)  
 [Flash Cards 61-89 Fractions](https://quizlet.com/916246778/fractions-q-61-89-abeka-arithmetic-concept-cards-5-8-diagram/?funnelUUID=cf3a2383-d135-41ab-97f7-ace037dcb41a), 
